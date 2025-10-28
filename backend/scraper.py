@@ -212,7 +212,6 @@ if __name__ == "__main__":
     log_message(f"SUMMARY: Collected {len(faculty_list)} faculty profiles", "a")
     log_message("="*60, "a")
     
-    # Now enrich the data with details from each profile page
     if faculty_list:
         enriched_list = enrich_faculty_data(faculty_list)
         
