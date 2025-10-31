@@ -1,13 +1,13 @@
 from fastapi import APIRouter, HTTPException, Query, Depends
 from sqlalchemy.orm import Session
 from typing import List
-from .schemas import FacultyNameOut
+from .schemas import FacultyOut, FacultyNameOut
 from backend.db.database import get_db
 from backend.db import models
 
 
 router = APIRouter(
-    prefix="/api/v1/faculty", # base path
+    prefix="/api/v1", # base path
     tags=["faculty"]
 )
 
@@ -28,6 +28,27 @@ def search_faculty_by_name(
 
         return results
 
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
+    
+
+@router.get("/{faculty_id}", response_model=FacultyOut)
+def get_faculty_by_id(
+    faculty_id: int,
+    db: Session = Depends(get_db)
+):
+    try:
+        faculty = db.query(models.Faculty).filter(models.Faculty.id == faculty_id).first()
+        if not faculty:
+            raise HTTPException(status_code=404, detail="Faculty not found")
+        
+        return FacultyOut(
+            id=faculty.id,
+            name=faculty.name,
+            webpage_url=faculty.webpage_url,
+            research_interests=faculty.research_interests
+        )
+    
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
     
