@@ -31,7 +31,7 @@ def search_faculty_by_name(
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
     
-
+# Search faculty by ID and return full details
 @router.get("/{faculty_id}", response_model=FacultyOut)
 def get_faculty_by_id(
     faculty_id: int,
@@ -51,4 +51,21 @@ def get_faculty_by_id(
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
-    
+
+
+@router.get("/search/resource", response_model=List[FacultyNameOut])
+def search_faculty_by_research_interest(
+    q: str = Query(..., min_length=1),
+    db: Session = Depends(get_db)
+):
+    try:
+        # Case-insensitive substring match in research interests
+        faculty_list = db.query(models.Faculty).filter(models.Faculty.research_interests.ilike(f"%{q}%")).all()
+
+        # Convert to response format
+        results = [FacultyNameOut(id=f.id, name=f.name) for f in faculty_list]
+
+        return results
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
