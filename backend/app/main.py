@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-# from .routers import faculty # Import your new router
+from backend.app.router import router
 
 app = FastAPI(
     title="Purdue ECE Faculty Finder API",
@@ -23,7 +23,7 @@ app.add_middleware(
 )
 
 # 3. Include the Router
-# app.include_router(faculty.router)
+app.include_router(router)
 
 @app.get("/")
 def read_root():
