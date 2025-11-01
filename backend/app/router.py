@@ -4,6 +4,9 @@ from typing import List
 from .schemas import FacultyOut, FacultyNameOut
 from backend.db.database import get_db
 from backend.db import models
+from backend.data_ingestion import ingest_faculty_data
+from backend.scraper import scrape_faculty_directory, enrich_faculty_data
+from backend.app.auth import verify_admin
 
 
 router = APIRouter(
@@ -32,7 +35,7 @@ def search_faculty_by_name(
         raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
     
 # Search faculty by ID and return full details
-@router.get("/{faculty_id}", response_model=FacultyOut)
+@router.get("/faculty/{faculty_id}", response_model=FacultyOut)
 def get_faculty_by_id(
     faculty_id: int,
     db: Session = Depends(get_db)
@@ -69,3 +72,16 @@ def search_faculty_by_research_interest(
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
+    
+
+@router.post("/update")
+def update_faculty(db: Session = Depends(get_db), _: bool = Depends(verify_admin)):
+    try:
+        raw_list = scrape_faculty_directory()
+        if not raw_list:
+            raise HTTPException(status_code=500, detail="Scrape failed")
+        enriched = enrich_faculty_data(raw_list)
+        ingest_faculty_data(db, enriched)
+        return {"status": "ok", "record_count": len(enriched)}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))

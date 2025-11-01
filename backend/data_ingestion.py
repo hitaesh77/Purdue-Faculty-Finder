@@ -4,9 +4,10 @@ from datetime import datetime
 from sqlalchemy.orm import Session
 from backend.db.database import SessionLocal, engine
 from backend.db.models import Faculty, Base
+from backend.scraper import log_message, LOG_FILE
 
 # --- Configuration ---
-DATA_FILE_PATH = "faculty_data_complete.json" 
+DATA_FILE_PATH = "faculty_data_complete.json"
 # --- End Configuration ---
 
 def load_data_from_json(file_path: str) -> list:
@@ -22,9 +23,12 @@ def load_data_from_json(file_path: str) -> list:
 def ingest_faculty_data(db: Session, faculty_data: list):
     """Inserts faculty data into the database, checking for duplicates."""
     
+    log_message(f"--- Starting data ingestion into database ---", "a")
+
     total_added = 0
     
     for item in faculty_data:
+        log_message(f"Processing: {item['name']}", "a")
         existing_faculty = db.query(Faculty).filter(Faculty.name == item["name"]).first()
 
         # EDIT LATER FOR UPDATING
@@ -46,6 +50,8 @@ def ingest_faculty_data(db: Session, faculty_data: list):
 
     # Commit all changes to the database
     db.commit()
+    log_message(f"--- Data ingestion complete: {total_added} new records added ---", "a")
+
     print(f"\nSuccessfully added {total_added} new faculty records.")
 
 if __name__ == "__main__":

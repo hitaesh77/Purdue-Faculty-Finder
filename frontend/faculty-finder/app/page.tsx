@@ -14,7 +14,7 @@ type FacultyListItem = {
   name: string
 }
 
-// return type for api/v1/{id} 
+// return type for api/v1/faculty/{id} 
 type FacultyDetail = {
   id: number
   name: string
@@ -80,7 +80,7 @@ export default function FacultySearchPage() {
 
     ;(async () => {
       try {
-        const res = await fetch(`http://127.0.0.1:8000/api/v1/${only.id}`)
+        const res = await fetch(`http://127.0.0.1:8000/api/v1/faculty/${only.id}`)
         const data: FacultyDetail = await res.json()
         setSelectedFaculty(data)
       } catch (_) {
@@ -99,7 +99,7 @@ export default function FacultySearchPage() {
   // handles selection of a faculty name
   const handleSelect = async (id: number) => {
     try {
-      const res = await fetch(`http://127.0.0.1:8000/api/v1/${id}`)
+      const res = await fetch(`http://127.0.0.1:8000/api/v1/faculty/${id}`)
       const data = await res.json() // full detail
       setSelectedFaculty(data)
     } catch (_) {
