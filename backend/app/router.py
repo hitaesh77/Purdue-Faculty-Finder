@@ -53,7 +53,7 @@ def get_faculty_by_id(
         raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
 
 
-@router.get("/search/resource", response_model=List[FacultyNameOut])
+@router.get("/search/research", response_model=List[FacultyNameOut])
 def search_faculty_by_research_interest(
     q: str = Query(..., min_length=1),
     db: Session = Depends(get_db)
