@@ -7,10 +7,11 @@ import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 
 // UNCOMMENT THIS BASE URL FOR DEPLOYED BACKEND
-const baseUrl = "https://faculty-finder-backend-685600974111.us-central1.run.app";
-
 // UNCOMMENT THIS BASE URL FOR LCOAL TESTING
 // const baseUrl = "http://localhost:8000";
+
+// environment driven api url
+const baseUrl = process.env.NEXT_PUBLIC_BASE_URL ?? "http://localhost:8000";
 
 // return type for following endpoints:
 // api/v1//search/name?q={name} 
