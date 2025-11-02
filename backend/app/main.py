@@ -18,7 +18,7 @@ app = FastAPI(
 # 2. CORS Middleware (Essential for connecting Frontend/Next.js)
 origins = [
     "http://localhost:3000", 
-    "https://purdue-faculty-finder.vercel.app/"
+    "https://purdue-faculty-finder.vercel.app"
 ]
 
 app.add_middleware(
