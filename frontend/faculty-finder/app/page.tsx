@@ -6,6 +6,8 @@ import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 
+const baseUrl = "https://faculty-finder-backend-685600974111.us-central1.run.app";
+
 // return type for following endpoints:
 // api/v1//search/name?q={name} 
 // api/v1/search/research?q={research_interest}
@@ -63,8 +65,8 @@ export default function FacultySearchPage() {
       // choose endpoint
       let url = ""
       // encodeURIComponent is a js function that makes it safe to turn strings into safe url inputs
-      if (nameSearch) url = `http://127.0.0.1:8000/api/v1/search/name?q=${encodeURIComponent(nameSearch)}`
-      else url = `http://127.0.0.1:8000/api/v1/search/research?q=${encodeURIComponent(interestSearch)}`
+      if (nameSearch) url = `${baseUrl}/api/v1/search/name?q=${encodeURIComponent(nameSearch)}`
+      else url = `${baseUrl}/api/v1/search/research?q=${encodeURIComponent(interestSearch)}`
 
       try {
         const res = await fetch(url)
@@ -88,7 +90,7 @@ export default function FacultySearchPage() {
 
       ; (async () => {
         try {
-          const res = await fetch(`http://127.0.0.1:8000/api/v1/faculty/${only.id}`)
+          const res = await fetch(`${baseUrl}/api/v1/faculty/${only.id}`)
           const data: FacultyDetail = await res.json()
           setSelectedFaculty(data)
         } catch (_) {
@@ -107,7 +109,7 @@ export default function FacultySearchPage() {
   // handles selection of a faculty name
   const handleSelect = async (id: number) => {
     try {
-      const res = await fetch(`http://127.0.0.1:8000/api/v1/faculty/${id}`)
+      const res = await fetch(`${baseUrl}/api/v1/faculty/${id}`)
       const data = await res.json() // full detail
       setSelectedFaculty(data)
     } catch (_) {
@@ -122,7 +124,7 @@ export default function FacultySearchPage() {
     setUpdateMessage("")
 
     try {
-      const res = await fetch("http://127.0.0.1:8000/api/v1/update", {
+      const res = await fetch(`${baseUrl}/api/v1/update`, {
         method: "POST",
         headers: {
           "Authorization": "Basic " + btoa(`${adminUser}:${adminPass}`)
