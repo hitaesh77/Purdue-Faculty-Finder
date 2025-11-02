@@ -1,6 +1,10 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from backend.app.router import router
+from backend.db.database import engine
+from backend.db.models import Base
+
+Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
     title="Purdue ECE Faculty Finder API",
