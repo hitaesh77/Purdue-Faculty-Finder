@@ -7,7 +7,8 @@ from backend.db.models import Faculty, Base
 from backend.scraper import log_message, LOG_FILE
 
 # --- Configuration ---
-DATA_FILE_PATH = "faculty_data_complete.json"
+BASE_DIR = os.path.dirname(__file__)
+DATA_FILE_PATH = os.path.join(BASE_DIR, "faculty_data_complete.json")
 # --- End Configuration ---
 
 def load_data_from_json(file_path: str) -> list:

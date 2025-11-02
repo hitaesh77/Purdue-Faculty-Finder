@@ -1,5 +1,4 @@
-# ignore db file, local json files, and logs
-*.json
+# ignore db file and logs
 *.db
 *.log
 

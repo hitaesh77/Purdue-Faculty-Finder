@@ -1,0 +1,806 @@
+[
+  {
+    "name": "Hadiseh Alaeian",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242740",
+    "personal_webpage": "https://engineering.purdue.edu/qnp",
+    "research_interests": "Hybrid, scalable, and integrated photonic quantum technologies and theoretical and experimental quantum optics/photonics . In particular, I am interested in theoretical and experimental investigations of interacting and correlated open quantum optical systems. We engineer light-matter interactions and employ highly excited Rydberg states to create large optical non-linearity, which leads to exotic states of light required for many different quantum technologies based on photons."
+  },
+  {
+    "name": "Muhammad Ashraful Alam",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3171",
+    "personal_webpage": "https://engineering.purdue.edu/~alam/",
+    "research_interests": "Performance and Reliability Physics of transistors, biosensors, solar cells to address fundamental challenges in computing, communication, renewable energy, and healthcare."
+  },
+  {
+    "name": "Dionysios Aliprantis",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=92117",
+    "personal_webpage": "https://engineering.purdue.edu/~dionysis/",
+    "research_interests": "electric machines and drives, power systems, integration of renewable energy sources, electric transportation, smart grids"
+  },
+  {
+    "name": "Jan P. Allebach",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3043",
+    "personal_webpage": null,
+    "research_interests": "Electronic imaging systems, image capture and rendering, color image processing, image quality, document imaging"
+  },
+  {
+    "name": "Joerg Appenzeller",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=32402",
+    "personal_webpage": "http://www.purdue.edu/discoverypark/nanotechnology/membership/Appenzeller/index.html",
+    "research_interests": "Device and transport physics of low-dimensional systems, experimental verification of novel device concept for improved transistor performance, exploration of nano-materials and nano-interfaces for future nanoelectronics applications"
+  },
+  {
+    "name": "Santokh Badesha",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242059",
+    "personal_webpage": null,
+    "research_interests": "Image generation and processing, Intellectual property generation and management, corporate partnerships"
+  },
+  {
+    "name": "Saurabh Bagchi (area chair)",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3261",
+    "personal_webpage": "https://bagchi.github.io/",
+    "research_interests": "Dependable distributed systems, secure autonomy, embedded wireless networks, predictable machine learning."
+  },
+  {
+    "name": "Mark R. Bell",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3137",
+    "personal_webpage": "https://engineering.purdue.edu/~mrb/",
+    "research_interests": "Information theory, communication theory and systems, radar systems and signal processing, signal theory, free-space optical communications"
+  },
+  {
+    "name": "Peter Bermel (area chair)",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=75045",
+    "personal_webpage": "http://web.ics.purdue.edu/~pbermel/",
+    "research_interests": "Applications of nanophotonics to microelectronics, photovoltaics, thermophotovoltaics, and thermal physics; and preparing students to work in these areas."
+  },
+  {
+    "name": "Sunil A. Bhave",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=122298",
+    "personal_webpage": "http://engineering.purdue.edu/oxidemems/",
+    "research_interests": "MEMS"
+  },
+  {
+    "name": "Alexandra Boltasseva",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=46150",
+    "personal_webpage": "https://engineering.purdue.edu/~aeb/",
+    "research_interests": "Nanophotonics, quantum photonics, machine learning, nanofabrication, plasmonics, metamaterials, integrated optics"
+  },
+  {
+    "name": "Charles A. Bouman",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2889",
+    "personal_webpage": "https://engineering.purdue.edu/~bouman/",
+    "research_interests": "Image processing, statistical image modeling, pattern recognition, image printing and display, tomography and inverse problems, medical imaging."
+  },
+  {
+    "name": "Mireille \"Mimi\" Boutin",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3165",
+    "personal_webpage": "http://www.ece.purdue.edu/~mboutin",
+    "research_interests": "Computer vision and image processing, automatic language translation, mobile device applications, interdisciplinary research, computational and applied mathematics"
+  },
+  {
+    "name": "Christopher Brinton",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=218378",
+    "personal_webpage": "http://www.cbrinton.net/",
+    "research_interests": "Network optimization, machine learning, edge and fog computing, signal processing, wireless networks, distributed computing, communication and information theory, social learning networks"
+  },
+  {
+    "name": "Aaron Brovont",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=256041",
+    "personal_webpage": null,
+    "research_interests": null
+  },
+  {
+    "name": "Stanley Chan (area chair)",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=111901",
+    "personal_webpage": "https://engineering.purdue.edu/ChanGroup/",
+    "research_interests": "image restoration, computational photography, photon limited imaging, statistical signal processing"
+  },
+  {
+    "name": "Arnold Chung-Ye Chen",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=159402",
+    "personal_webpage": null,
+    "research_interests": "Entrepreneurship and semiconductor manufacturing"
+  },
+  {
+    "name": "Xiaoqi Danny Chen",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=287000",
+    "personal_webpage": null,
+    "research_interests": "Algorithm design for high-speed programmable network switches and SmartNICs, to improve network performance, security, and measurement"
+  },
+  {
+    "name": "Yaobin Chen",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=296665",
+    "personal_webpage": "https://engineering.purdue.edu/TASI",
+    "research_interests": "Intelligent transportation systems, automated vehicles, EV and HEV, intelligent controls and robotics"
+  },
+  {
+    "name": "Zhihong Chen",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=66392",
+    "personal_webpage": "http://web.ics.purdue.edu/~chen658/",
+    "research_interests": "Exploration of physical properties of nano-materials; control and manipulation of material properties to fit the needs of nano-electronic applications; designing and fabricating novel nano-devices and circuits for various application fields."
+  },
+  {
+    "name": "Weng C. Chew",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=173044",
+    "personal_webpage": "https://engineering.purdue.edu/wcchew/",
+    "research_interests": "Electromagnetics, fast and efficient computational algorithms for solving electromagnetic scattering, imaging, quantum, multi-physics, and multi-scale problems"
+  },
+  {
+    "name": "Mung Chiang",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238",
+    "personal_webpage": null,
+    "research_interests": "Optimization of networks, network utility maximization, network function optimization, Fog networking and the Internet of Things, Smart data pricing and network economics, Social learning networks and online social networks"
+  },
+  {
+    "name": "Mary Comer",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8864",
+    "personal_webpage": null,
+    "research_interests": "Video compression, scalable video coding, medical imaging, image and video processing"
+  },
+  {
+    "name": "Meng Cui",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=121778",
+    "personal_webpage": "https://mengcuilab.github.io/",
+    "research_interests": "Neurophotonics, In vivo imaging, High-throughput and high-quality imaging, Drug discovery, Wavefront engineering."
+  },
+  {
+    "name": "Keerthi Priya Dasala",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=313565",
+    "personal_webpage": null,
+    "research_interests": null
+  },
+  {
+    "name": "Supriyo Datta",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3286",
+    "personal_webpage": "https://nanohub.org/groups/supriyodatta",
+    "research_interests": "Spin electronics, nanoscale energy conversion, molecular electronics and mesoscopic superconductivity"
+  },
+  {
+    "name": "James Davis",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242045",
+    "personal_webpage": "https://davisjam.github.io/",
+    "research_interests": "I study the engineering of computing systems, writ broad. My primary interests are in software correctness, security, and usability. I apply a socio-technical philosophy; high-quality systems must be engineered using both human and technical perspectives. I am an empiricist; I always strive to measure the practical impact of problems and solutions."
+  },
+  {
+    "name": "Edward J. Delp",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2632",
+    "personal_webpage": "https://engineering.purdue.edu/~ace/",
+    "research_interests": "Image processing, image and video compression, information security, multimedia systems, medical imaging, computer vision, communication and information theory"
+  },
+  {
+    "name": "Rosa Diaz Rivas",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=149835",
+    "personal_webpage": null,
+    "research_interests": null
+  },
+  {
+    "name": "Yi Ding",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=285937",
+    "personal_webpage": "https://y-ding.github.io/",
+    "research_interests": "AI/ML Systems, Sustainable Computing, Computer Systems, Computer Architecture, Machine Learning, Healthcare"
+  },
+  {
+    "name": "Shengwang Du",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=303298",
+    "personal_webpage": "https://engineering.purdue.edu/QuantumOptics",
+    "research_interests": "Atomic, Molecular, and Optical (AMO) Physics, Quantum Optics, Quantum Networks, Quantum Computing, Optical Neural Networks and Artificial Intelligence, Optical Microscopy, and Bioimaging."
+  },
+  {
+    "name": "Daniel S. Elliott",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2925",
+    "personal_webpage": "https://engineering.purdue.edu/ElliottLab",
+    "research_interests": "Nonlinear optics, multiphoton processes, photoionization, competition between optical processes, coherent control, atomic coherence"
+  },
+  {
+    "name": "Steve France",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=284993",
+    "personal_webpage": null,
+    "research_interests": "Software engineering practices, processes and management; quality assurance; system design and integration; team leadership; defense acquisition programs; unmanned systems; teaching and mentoring."
+  },
+  {
+    "name": "Jing Gao",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246669",
+    "personal_webpage": null,
+    "research_interests": "Data and information analysis with a focus on data mining. In particular, I am interested in information veracity analysis, multi-source data analysis, knowledge graphs, large language model, data and model efficiency, fairness and interpretation, transfer learning, federated learning, crowdsourcing, data stream mining, and anomaly detection. I am also interested in various data mining applications in healthcare, biology, criminal justice, transportation, and education."
+  },
+  {
+    "name": "Arif Ghafoor",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2827",
+    "personal_webpage": "https://engineering.purdue.edu/~dmultlab/",
+    "research_interests": "Multimedia systems, databases, distributed computing systems, broadband multimedia networking"
+  },
+  {
+    "name": "Mahsa Ghasemi",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=256126",
+    "personal_webpage": "https://mahsaghasemi.github.io/",
+    "research_interests": "Task-Oriented Knowledge Acquisition and Reasoning; Online Learning and Control; Human-Robot Interaction; Trustworthy Artificial Intelligence; Socially and Ethically Beneficial Autonomy"
+  },
+  {
+    "name": "Zahra Ghodsi",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270860",
+    "personal_webpage": null,
+    "research_interests": "Trustworthy machine learning, applied cryptography"
+  },
+  {
+    "name": "Luis Gomez",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242048",
+    "personal_webpage": null,
+    "research_interests": "Electromagnetics, computational analysis, design, and uncertainty quantification of electromagnetic brain stimulation devices, bio-electromagnetics, fast-algorithms, and applied computational electromagnetics."
+  },
+  {
+    "name": "Qi Guo",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=256878",
+    "personal_webpage": "http://qiguo.org/",
+    "research_interests": "Computational imaging, computer vision, machine learning, optics"
+  },
+  {
+    "name": "Sumeet Gupta",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=185139",
+    "personal_webpage": null,
+    "research_interests": "Device-circuit co-design in emerging nanotechnologies for Boolean and non-Boolean computing, spintronics, low power variation tolerant VLSI design,  device-circuit modeling."
+  },
+  {
+    "name": "Vijay Gupta",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=267567",
+    "personal_webpage": "https://engineering.purdue.edu/Vijay-Gupta",
+    "research_interests": "Intersection of control theory and machine learning,  Distributed estimation and decision making, Cyber-physical-human systems, Signal processing, Game theory, Power grid, Transportation networks"
+  },
+  {
+    "name": "Abolfazl Hashemi",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=255728",
+    "personal_webpage": "https://abolfazlh.github.io/",
+    "research_interests": "Large-Scale Optimization for AI and ML, Learning at the Edge, and Decision-Making under Uncertainty."
+  },
+  {
+    "name": "Jianghai Hu",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3061",
+    "personal_webpage": "https://engineering.purdue.edu/~jianghai/",
+    "research_interests": "Hybrid systems; multi-agent systems; control of uncertain systems; control applications (e.g. in sensor networks and energy efficient building management); general control and optimization theory"
+  },
+  {
+    "name": "Y. Charlie Hu",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3351",
+    "personal_webpage": "http://www.ece.purdue.edu/~ychu/",
+    "research_interests": "Distributed systems, operating systems, networking, parallel computing"
+  },
+  {
+    "name": "Muhammad Hussain",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270676",
+    "personal_webpage": "http://mmhlabs.org",
+    "research_interests": "mmh Lab (Device Research Engineering Applications and Manufacturing: DREAM) designs and develops futuristic electronics focusing on a broad range of applications such as healthcare, environment, energy, robotics, space and defense applications. They use state-of-the-art CMOS technology to ensure rapid and volume manufacturing of these semiconductor electronics. These IoT and IoE devices are standalone multifunctional integrated systems which are either physically rigid or physically flexible, stretchable and reconfigurable."
+  },
+  {
+    "name": "David I. Inouye",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=218058",
+    "personal_webpage": "https://www.davidinouye.com/",
+    "research_interests": "Trustworthy machine learning, robust ML, causal ML, explainability, fairness"
+  },
+  {
+    "name": "Zubin Jacob",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=125866",
+    "personal_webpage": "http://www.electrodynamics.org/",
+    "research_interests": "Quantum Vacuum, Quantum Photonics, Energy and Thermal"
+  },
+  {
+    "name": "Leah H. Jamieson",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3106",
+    "personal_webpage": "http://ece.www.ecn.purdue.edu/~lhj/",
+    "research_interests": "Engineering education; engineering and society; public understanding of engineering; diversity, equity and inclusion"
+  },
+  {
+    "name": "David B. Janes",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2934",
+    "personal_webpage": "https://birck.research.purdue.edu/directory/david-janes/",
+    "research_interests": "Nanoscale electronic devices, molecular/semiconductor devices, microwave devices and characterization"
+  },
+  {
+    "name": "Brent Jesiek",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=45642",
+    "personal_webpage": "http://web.ics.purdue.edu/~bjesiek/",
+    "research_interests": "History and social studies of electrical engineering and computer engineering,\r<br>\nopen source software and hardware, history of embedded devices and systems,\r<br>\nsoftware and hardware development methodologies, global engineering education,\r<br>\nengineering education research"
+  },
+  {
+    "name": "Dan Jiao",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8945",
+    "personal_webpage": "http://www.ece.purdue.edu/~djiao",
+    "research_interests": "Computational electromagnetics, applied electromagnetics, high frequency VLSI circuit design and analysis, high-performance VLSI CAD, fast and high-capacity numerical methods, scattering and antenna analysis, microwave and millimeter wave circuits, and bio-electromagnetics"
+  },
+  {
+    "name": "Dr. Mark Johnson",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3130",
+    "personal_webpage": "https://engineering.purdue.edu/Mark-Johnson",
+    "research_interests": null
+  },
+  {
+    "name": "Byunghoo Jung",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8942",
+    "personal_webpage": "https://sites.google.com/site/jagpurdue/Home",
+    "research_interests": "Circuits and systems for wireless sensing"
+  },
+  {
+    "name": "Avinash C. Kak",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2833",
+    "personal_webpage": "https://engineering.purdue.edu/kak/",
+    "research_interests": "Sensor and Camera Networks, High-Level Programming Languages, Software Engineering, Computer and Network Security"
+  },
+  {
+    "name": "Vassilis Kekatos",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=285947",
+    "personal_webpage": "https://engineering.purdue.edu/~kekatos/",
+    "research_interests": null
+  },
+  {
+    "name": "Alexander Kildishev",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2797",
+    "personal_webpage": "http://nanohub.org/members/6059",
+    "research_interests": "Modeling of nanophotonics devices, optical metamaterials and transformation optics"
+  },
+  {
+    "name": "Jongwook Kim",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=301609",
+    "personal_webpage": null,
+    "research_interests": "Software Refactoring, Design Patterns, Software Product Lines"
+  },
+  {
+    "name": "Kwang Taik Kim",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=243261",
+    "personal_webpage": "https://kimkt.com/",
+    "research_interests": "Wireless communication, open radio access network (RAN) and edge platform, edge computing, large-scale distributed computing, machine learning in the realms of wireless system design"
+  },
+  {
+    "name": "Younghyun Kim",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=293362",
+    "personal_webpage": "https://engineering.purdue.edu/neis",
+    "research_interests": "Edge AI and ML, Efficient computing, Secure and privacy-preserving computing, Applied and physical AI, Internet-of-Things, Embedded computing systems, Cyber-physical systems"
+  },
+  {
+    "name": "Gerhard Klimeck",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3010",
+    "personal_webpage": "https://engineering.purdue.edu/gekcogrp/",
+    "research_interests": "Nanoelectronic device analysis and synthesis, genetic algorithm based optimization, high performance computing, engineering tool development"
+  },
+  {
+    "name": "Cheng-Kok Koh",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2895",
+    "personal_webpage": "https://engineering.purdue.edu/Engr/People/ptProfile?resource_id=2895",
+    "research_interests": "Computer Aided Design (CAD) for Very Large-Scale Integration (VLSI)"
+  },
+  {
+    "name": "James V. Krogmeier",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3040",
+    "personal_webpage": "https://engineering.purdue.edu/~jvk/",
+    "research_interests": "Statistical signal processing for wireless communications and sensor networking applied to transportation and precision agriculture."
+  },
+  {
+    "name": "Tillmann Kubis",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=164638",
+    "personal_webpage": "https://www.group.tkubis.com/",
+    "research_interests": "Transport modeling of charge, heat and spin on nanometer length scale in semiconductors, 2D materials and topological insulators for optoelectronics, logic devices and sensor applications. High performance computing implementations of quantum transport models. Generalizing the application space of the nonequilibrium Green's function method."
+  },
+  {
+    "name": "Milind Kulkarni",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=55852",
+    "personal_webpage": "https://engineering.purdue.edu/~milind/",
+    "research_interests": "Programming languages, compilers, and runtime systems for accelerators, multicores, and other complex hardware. Optimizing and parallelizing irregular algorithms."
+  },
+  {
+    "name": "C. S. George Lee",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2910",
+    "personal_webpage": "https://engineering.purdue.edu/artlab",
+    "research_interests": "Robotics, Transfer Learning, Neuro-fuzzy Systems"
+  },
+  {
+    "name": "Woongkul Matt Lee",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=302765",
+    "personal_webpage": null,
+    "research_interests": "High-performance motor drive, power electronics, electric machines, and distributed energy resources"
+  },
+  {
+    "name": "James S. Lehnert",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3037",
+    "personal_webpage": "http://www.ecn.purdue.edu/S3CRL/lehnert/",
+    "research_interests": "Communication theory, information theory, spread spectrum signaling, packet radio systems, fading communication channels, channel equalization techniques, signal design and coding"
+  },
+  {
+    "name": "Haitong Li",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270857",
+    "personal_webpage": "https://engineering.purdue.edu/NanoX/",
+    "research_interests": "Nanoelectronic devices, integrated circuits, nanotechnology-inspired AI hardware"
+  },
+  {
+    "name": "Husheng Li",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270776",
+    "personal_webpage": null,
+    "research_interests": "Wireless communications, statistical signal processing, cyber physical systems, autonomous and connected systems"
+  },
+  {
+    "name": "Junfei Li",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270981",
+    "personal_webpage": null,
+    "research_interests": null
+  },
+  {
+    "name": "Lingxi Li",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=296655",
+    "personal_webpage": "https://web.ics.purdue.edu/~li2317/",
+    "research_interests": "Modeling, analysis, control, and optimization of complex systems, connected and automated vehicles, intelligent transportation systems, discrete event dynamic systems, human-machine interaction, parallel intelligence"
+  },
+  {
+    "name": "Tongcang Li",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=112557",
+    "personal_webpage": "https://sites.google.com/site/litongcang/",
+    "research_interests": "Quantum photonics, Quantum optomechanics, cold atoms, Brownian motion"
+  },
+  {
+    "name": "Chaoyue Liu",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=299162",
+    "personal_webpage": "https://cliu212.github.io/",
+    "research_interests": "Mathematical Foundation of deep learning, deep learning theory, optimization"
+  },
+  {
+    "name": "David J. Love",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2946",
+    "personal_webpage": "https://engineering.purdue.edu/~djlove/",
+    "research_interests": "Communication theory, information theory, feedback in communication systems, multiple-input multiple-output (MIMO) wireless systems, Grassmannian subspace packing, massive MIMO communications, distributed MIMO, millimeter wave communications, signal processing to minimize EM exposure"
+  },
+  {
+    "name": "Yung-Hsiang Lu",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3355",
+    "personal_webpage": "http://www.ece.purdue.edu/~yunglu/index.html",
+    "research_interests": "Mobile and cloud computing, energy-efficient computing, image and video processing"
+  },
+  {
+    "name": "Joseph M. Lukens",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=310905",
+    "personal_webpage": null,
+    "research_interests": "Quantum information science, Photonics, Lightwave communications, Quantum networking, Bayesian inference"
+  },
+  {
+    "name": "Mark S. Lundstrom",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3140",
+    "personal_webpage": "https://nanohub.org/groups/mark_lundstrom/",
+    "research_interests": "Semiconductor device physics, change carrier transport, computational electronics, physics and limits of nanotransistors"
+  },
+  {
+    "name": "Aravind Machiry",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=248800",
+    "personal_webpage": null,
+    "research_interests": "My primary research area is system and software security.   I lead Purdue Systems and Software Security Lab (PurS3) with the goal of securing modern systems by providing principled yet practical solutions to various security problems."
+  },
+  {
+    "name": "Joseph Makin",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786",
+    "personal_webpage": "https://engineering.purdue.edu/MakinLab",
+    "research_interests": "Mathematical neuroscience and neural computation; brain-machine interfaces in humans and animals; machine learning and control, especially as they relate to neuroscience"
+  },
+  {
+    "name": "Anuran Makur",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=258037",
+    "personal_webpage": "https://www.cs.purdue.edu/homes/amakur/",
+    "research_interests": "Theory of machine learning, Information theory, Applied probability"
+  },
+  {
+    "name": "Michael Manfra",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=52062",
+    "personal_webpage": "http://manfragroup.org/",
+    "research_interests": "Non-Abelian phases in the fractional Quantum Hall regime, Engineering GaAs heterostructures for high fidelity spin qubits, Quantum computing with Majorana fermions in hybrid semiconductor/superconductor systems"
+  },
+  {
+    "name": "Jason D. McKinney",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=257064",
+    "personal_webpage": null,
+    "research_interests": "Microwave photonics systems and applications including folding receivers, direction-finding, interference mitigation, beamforming, sensing, and waveform generation."
+  },
+  {
+    "name": "Michael R. Melloch",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3162",
+    "personal_webpage": "https://engineering.purdue.edu/people/michael.r.melloch.1/index_html",
+    "research_interests": "Semiconductor physics, molecular beam epitaxy, heterostructures, superlattices, ultra-small devices"
+  },
+  {
+    "name": "Saeed Mohammadi",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3246",
+    "personal_webpage": "https://engineering.purdue.edu/SiVIC",
+    "research_interests": "High-speed and low-power electronics, 3-D integration, nanotechnology,\r<br>\n novel semiconductor devices, reconfigurable systems"
+  },
+  {
+    "name": "Dallas Morisette",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=77034",
+    "personal_webpage": "https://engineering.purdue.edu/wbgweb/",
+    "research_interests": "Solid state device physics, MOS interface physics, wide bandgap materials and devices, power semiconductor devices, silicon carbide devices."
+  },
+  {
+    "name": "Evgenii Narimanov",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=28040",
+    "personal_webpage": null,
+    "research_interests": "Negative Index (Meta) materials, Optical systems with ray-chaotic dynamics, Information-theoretical description of nonlinear fiber-optical systems, Non-linear dynamics."
+  },
+  {
+    "name": "Philip E. Paré",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=236400",
+    "personal_webpage": "http://sites.google.com/view/philpare",
+    "research_interests": "Mathematical modeling and control of dynamic networked systems, e.g. epidemiological, biological, economic systems, infrastructure networks, social networks, etc.; stability analysis, identifiability, and parameter estimation of such nonlinear and possibly time-varying systems; safety-critical control of networked dynamic systems; data-informed and data-driven control methods of networked dynamic systems"
+  },
+  {
+    "name": "Brooke Parks",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=125121",
+    "personal_webpage": null,
+    "research_interests": null
+  },
+  {
+    "name": "Steven D. Pekarek",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3276",
+    "personal_webpage": null,
+    "research_interests": "Analysis, design, and control of electric machines, power electronics, and power electronic based systems."
+  },
+  {
+    "name": "Dimitrios Peroulis",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2967",
+    "personal_webpage": "http://www.linkedin.com/in/dimitrios-peroulis",
+    "research_interests": "High-frequency reconfigurable electronics and antennas, photonic time crystals, microwave heating for pharmaceutical freeze-drying"
+  },
+  {
+    "name": "Irith Pomeranz",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3028",
+    "personal_webpage": "http://www.ece.purdue.edu/~pomeranz",
+    "research_interests": "Test generation, design-for-testability, built-in self-test and diagnosis of integrated circuits."
+  },
+  {
+    "name": "Minghao Qi",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8861",
+    "personal_webpage": null,
+    "research_interests": "Nanotechnology, especially 3D nanofabrication and low-cost nanolithography; micro and nanophotonics, with emphasis on 3D photonic crystals and integrated Si photonic circuits; thermophotovoltaics and solar cells"
+  },
+  {
+    "name": "Junjie Qin",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246563",
+    "personal_webpage": "https://engineering.purdue.edu/people/junjie.qin.1",
+    "research_interests": "Control, optimization, market design, and data analytics applied to power systems and the energy-transportation nexus"
+  },
+  {
+    "name": "Qiang Qiu",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=238920",
+    "personal_webpage": "https://engineering.purdue.edu/~qqiu",
+    "research_interests": "Computer vision and machine learning, specifically on deep learning, image understanding, representation learning."
+  },
+  {
+    "name": "Xiaokang Qiu",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=145120",
+    "personal_webpage": "https://engineering.purdue.edu/~xqiu/",
+    "research_interests": null
+  },
+  {
+    "name": "Vijay Raghunathan",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=24522",
+    "personal_webpage": "https://engineering.purdue.edu/~vr",
+    "research_interests": "Hardware and software architectures for embedded computing systems,\r<br>\nsystem-on-chip design, and wireless sensor networks with an emphasis\r<br>\non low-power design, reliable system design, and environmental energy\r<br>\nharvesting."
+  },
+  {
+    "name": "Anand Raghunathan (area chair)",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=46143",
+    "personal_webpage": "https://engineering.purdue.edu/~araghu",
+    "research_interests": "System-on-chip (SoC) architecture and design methodologies,\r<br>\nApplication-specific and domain-specific VLSI processing architectures,\r<br>\nEmbedded systems, Low-power design, Information security and trust in\r<br>\nembedded system and SoC design, Electronic design automation."
+  },
+  {
+    "name": "Karthik Ramani",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=12331",
+    "personal_webpage": "https://engineering.purdue.edu/ME/People/ptProfile?id=12331",
+    "research_interests": null
+  },
+  {
+    "name": "Sanjay Rao",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3252",
+    "personal_webpage": "http://www.ece.purdue.edu/~sanjay",
+    "research_interests": "Computer Networking, Internet Architecture and Protocols, Software-Defined Networking, Cloud Computing, Smartphone Systems, Enterprise Networking"
+  },
+  {
+    "name": "Amy Reibman",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=117177",
+    "personal_webpage": "https://engineering.purdue.edu/~reibman/",
+    "research_interests": "Image and video quality estimation, video transport over networks, video analytics"
+  },
+  {
+    "name": "Timothy Rogers",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=134165",
+    "personal_webpage": "https://engineering.purdue.edu/tgrogers/",
+    "research_interests": "Computer architecture, hardware accelerators, software systems, compilers and hardware/software co-design."
+  },
+  {
+    "name": "Thomas Roth",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246666",
+    "personal_webpage": "https://engineering.purdue.edu/CQEM",
+    "research_interests": "Modeling of classical and quantum electromagnetic systems, multiscale and multiphysics modeling, applied electromagnetics."
+  },
+  {
+    "name": "Kaushik Roy",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3085",
+    "personal_webpage": "https://engineering.purdue.edu/NRL/",
+    "research_interests": "AI algorithms and hardware, neuromorphic computing, low-power electronics, neuro-mimetic devices, design-technology/ system-technology co-design"
+  },
+  {
+    "name": "Gesualdo Scutari",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=126294",
+    "personal_webpage": "https://engineering.purdue.edu/~gscutari/",
+    "research_interests": "Decentralized optimization and information processing, statistical machine learning algorithms, mathematical optimization theory/methods and (engineering) applications, game theoretical models/algorithms and (engineering) applications"
+  },
+  {
+    "name": "Shreyas Sen",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=134162",
+    "personal_webpage": "https://engineering.purdue.edu/~shreyas/SparcLab/",
+    "research_interests": "Sensing and Communication Circuits/Systems, Energy-harvested Sensor nodes for Internet of Things (IoT), Analog/RF, Wireless, Security, Human body-coupled Communication"
+  },
+  {
+    "name": "Ali Shakouri",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=74115",
+    "personal_webpage": "https://nanohub.org/groups/quest/",
+    "research_interests": "Quantum electronics, nano and microscale heat and current transport in semiconductor devices, thermoelectric/thermionic energy conversion, submicron thermal imaging, micro refrigerators on a chip and novel optoelectronic integrated circuits."
+  },
+  {
+    "name": "Vladimir M. Shalaev",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3322",
+    "personal_webpage": "http://www.ece.purdue.edu/~shalaev/",
+    "research_interests": "Optical properties of nanostructured materials, nonlinear optics and spectroscopy, mesoscopic physics, quantum electronics and optoelectronics"
+  },
+  {
+    "name": "Behzad Sharif",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=271279",
+    "personal_webpage": null,
+    "research_interests": "Development and clinical validation of innovative MRI technologies for quantitative imaging of the dynamics in the cardiovascular system, solving ongoing challenges in non-invasive testing of coronary microvascular health and imaging-guided evaluation of therapies targeting coronary microcirculation, development of \"low field\" MRI scanners which have a wider bore, expansion of application of cardiac MRI to a much wider cohort of patients"
+  },
+  {
+    "name": "Vishal Shrivastav",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246663",
+    "personal_webpage": "https://engineering.purdue.edu/~vshriva/",
+    "research_interests": "Computer Networking and Networked Systems."
+  },
+  {
+    "name": "Jeffrey M. Siskind",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3055",
+    "personal_webpage": "http://www.ece.purdue.edu/~qobi",
+    "research_interests": "Artificial intelligence, cognitive science, computational linguistics, machine vision, programming languages, visual event perception, child language acquisition, optimizing compilers for mostly-functional programming languages, programming environments, robotics"
+  },
+  {
+    "name": "Lu Su",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246660",
+    "personal_webpage": "https://engineering.purdue.edu/~lusu/",
+    "research_interests": "Internet of things, cyber-physical systems, wireless, mobile, and crowd sensing systems, big data and cloud computing, data mining and machine learning, security and privacy."
+  },
+  {
+    "name": "Scott D. Sudhoff",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3265",
+    "personal_webpage": "http://cobweb.ecn.purdue.edu/~sudhoff/",
+    "research_interests": "Power electronics, electromechanical devices, power electronics based  power distribution and propulsion systems, evolutionary optimization,  power magnetics, applied control, marine engineering"
+  },
+  {
+    "name": "Shreyas Sundaram (area chair)",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=117180",
+    "personal_webpage": "https://engineering.purdue.edu/~sundara2",
+    "research_interests": "Network science, robustness and resilience of complex networks and systems, dynamics on networks, fault-tolerant and secure control, distributed and decentralized control, graph theory"
+  },
+  {
+    "name": "Hong Z. Tan",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3022",
+    "personal_webpage": "http://cobweb.ecn.purdue.edu/~hongtan/",
+    "research_interests": "Haptic interfaces, distributed contact sensing, Haptic rendering, psychophysics"
+  },
+  {
+    "name": "Takashi Tanaka",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=308322",
+    "personal_webpage": "https://networked-control-systems-lab.github.io/",
+    "research_interests": "Information theory in control, security and privacy in networked control systems, robust and stochastic optimal control, dynamic market design, neuromorphic sensing"
+  },
+  {
+    "name": "Mithuna S. Thottethodi",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3168",
+    "personal_webpage": "http://www.ece.purdue.edu/~mithuna",
+    "research_interests": "Computer Architecture, Interconnection Networks, Distributed Systems"
+  },
+  {
+    "name": "Santiago Torres-Arias",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=238320",
+    "personal_webpage": null,
+    "research_interests": "Computer systems security, software supply chain security, and distributed system security. Applied cryptography and password storage mechanisms."
+  },
+  {
+    "name": "Vishrant Tripathi",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=302023",
+    "personal_webpage": "https://vishrantt.github.io/",
+    "research_interests": "Modeling, analysis and design of communication networks, with emphasis on wireless and real-time networks. Scheduling problems in networked control systems, robotics and federated learning."
+  },
+  {
+    "name": "Pramey Upadhyaya (area chair)",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=182798",
+    "personal_webpage": null,
+    "research_interests": "magnetism, classical and quantum spintronics, next-generation information processing & bio-devices"
+  },
+  {
+    "name": "T. N. Vijaykumar",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3293",
+    "personal_webpage": "https://engineering.purdue.edu/~vijay/",
+    "research_interests": "Computer architecture"
+  },
+  {
+    "name": "Phillip Walter",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=255841",
+    "personal_webpage": null,
+    "research_interests": null
+  },
+  {
+    "name": "Chih-Chun Wang",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=12670",
+    "personal_webpage": "https://engineering.purdue.edu/~chihw/",
+    "research_interests": "Coding theory, network coding, analysis of iterative decoding, information theory and optimal decision and control"
+  },
+  {
+    "name": "Haiyan Wang",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=139178",
+    "personal_webpage": "https://sites.google.com/site/haiyanwanggroup/home",
+    "research_interests": "Prof. Wang specializes in the design and processing of functional nanocomposite thin films for microelectronics, optoelectronics, high-temperature superconductors, solid oxide fuel cells, plasmonics and photonics, ferroelectric and ferromagnetic applications, and radiation tolerance materials. She has published over 460 journal articles (citation 16000 times, H-index of 59) and presented over 250 invited and contributed talks at various international conferences. Wang holds 10 patents in the areas of thin film processing and architectures and is a Fellow of ASM International, ACerS, AAAS and APS."
+  },
+  {
+    "name": "Jingbo Wang",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=287003",
+    "personal_webpage": null,
+    "research_interests": null
+  },
+  {
+    "name": "Xiaoqian (Joy) Wang",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=221122",
+    "personal_webpage": "https://engineering.purdue.edu/~joywang/",
+    "research_interests": null
+  },
+  {
+    "name": "Kevin J. Webb",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3097",
+    "personal_webpage": "https://engineering.purdue.edu/Kevin-Webb",
+    "research_interests": "Biophotonics, imaging, nanophotonics, metamaterials, electromagnetics, and solid state devices"
+  },
+  {
+    "name": "Dana Weinstein",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=124038",
+    "personal_webpage": "https://engineering.purdue.edu/hybridmems/",
+    "research_interests": "RF MEMS, electromechanical resonators and transducers for wireless communication, signal processing, and sensors."
+  },
+  {
+    "name": "Jenna Wise DiVincenzo",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=285942",
+    "personal_webpage": "https://jennalwise.github.io/",
+    "research_interests": "Software verification, formal methods, programming languages, software engineering"
+  },
+  {
+    "name": "George R. Wodicka",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3004",
+    "personal_webpage": "http://engineering.purdue.edu/BME/People/viewPersonById?resource_id=3004",
+    "research_interests": "Biomedical acoustics, speech acoustics, acoustic modeling, biomedical signal processing, acoustic biosensors, medical instrumentation"
+  },
+  {
+    "name": "Peide \"Peter\" Ye",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3198",
+    "personal_webpage": "http://www.ece.purdue.edu/~yep",
+    "research_interests": "Semiconductor physics and devices, Nano-structures and nano-fabrications, Quantum/spin-transport, 2D materials including graphene, TMDs, BP and Te, Atomic layer deposition,  High-k and ferroelectric dielectrics,  High-performance III-V MOSFETs, High-performance Ge CMOS, High-performance oxide semiconductors for 3D integration"
+  },
+  {
+    "name": "Stanislaw H. Zak",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3272",
+    "personal_webpage": "http://www.ece.purdue.edu/~zak/",
+    "research_interests": "Control, optimization, nonlinear systems, neural networks, fuzzy logic control"
+  },
+  {
+    "name": "Fengqing Maggie Zhu",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=117183",
+    "personal_webpage": "https://engineering.purdue.edu/~zhu0/",
+    "research_interests": "Image processing, video compression, computer vision, and smart health"
+  },
+  {
+    "name": "Carla Zoltowski",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2874",
+    "personal_webpage": null,
+    "research_interests": null
+  },
+  {
+    "name": "Michael D. Zoltowski",
+    "profile_url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3159",
+    "personal_webpage": "http://www.ece.purdue.edu/~mikedz",
+    "research_interests": "Wireless & mobile communication systems, smart antennas, space-time adaptive processing, multipath channel identification & equalization, interference suppression for TDMA and CDMA cellular systems, space-time coding, Jammer cancellation for GPS"
+  }
+]

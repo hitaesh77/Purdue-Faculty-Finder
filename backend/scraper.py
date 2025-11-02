@@ -3,11 +3,13 @@ from bs4 import BeautifulSoup
 import json
 import time
 from datetime import datetime
+import os
 
 # --- Configuration ---
+BASE_DIR = os.path.dirname(__file__)
 BASE_URL = "https://engineering.purdue.edu"
 FACULTY_LIST_URL = "https://engineering.purdue.edu/ECE/People/Faculty"
-LOG_FILE = "faculty_scraper.log"
+LOG_FILE = os.path.join(BASE_DIR, "faculty_scraper.log")
 # --- End Configuration ---
 
 def log_message(message, log_mode):
@@ -95,7 +97,7 @@ def scrape_faculty_directory():
     log_message(f"--- Scrape complete. Successfully extracted {len(faculty_data)} faculty entries ---", "a")
     
     # Save to JSON file as well
-    output_file = "faculty_data.json"
+    output_file = os.path.join(BASE_DIR, "faculty_data.json")
     try:
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(faculty_data, f, indent=2, ensure_ascii=False)
@@ -191,7 +193,7 @@ def enrich_faculty_data(faculty_list):
     log_message(f"--- Profile enrichment complete ---", "a")
     
     # Save updated data to JSON
-    output_file = "faculty_data_complete.json"
+    output_file = os.path.join(BASE_DIR, "faculty_data_complete.json")
     try:
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(faculty_list, f, indent=2, ensure_ascii=False)
