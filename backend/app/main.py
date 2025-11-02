@@ -32,7 +32,7 @@ app.add_middleware(
 # 3. Include the Router
 app.include_router(router)
 
-@app.lifespan("startup")
+@app.on_event("startup")
 def startup_event():
     """
     Ensures the database exists and ingests JSON data if not already present.
