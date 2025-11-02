@@ -41,18 +41,11 @@ def startup_event():
     db_path = os.path.join(BASE_DIR, "faculty.db")
     json_path = os.path.join(BASE_DIR, "faculty_data_complete.json")
 
-    # Only ingest if DB does not exist
-    if not os.path.exists(db_path):
-        print("Database not found. Creating and ingesting data...")
-        data = load_data_from_json(json_path)
-        if data:
-            db = SessionLocal()
-            ingest_faculty_data(db, data)
-            db.close()
-        else:
-            print("No data found to ingest.")
-    else:
-        print("Database already exists. Skipping ingestion.")
+    data = load_data_from_json(json_path)
+    if data:
+        db = SessionLocal()
+        ingest_faculty_data(db, data)  # safely skips duplicates
+        db.close()
 
 @app.get("/")
 def read_root():
