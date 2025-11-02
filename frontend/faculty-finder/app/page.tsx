@@ -23,12 +23,20 @@ type FacultyDetail = {
 }
 
 export default function FacultySearchPage() {
+  // states for normal operation
   const [nameSearch, setNameSearch] = useState("")
   const [interestSearch, setInterestSearch] = useState("")
   const [results, setResults] = useState<FacultyListItem[]>([]) // [{id, name}]
-  const [selectedFaculty, setSelectedFaculty] =  useState<FacultyDetail | null>(null)
+  const [selectedFaculty, setSelectedFaculty] = useState<FacultyDetail | null>(null)
   const [loading, setLoading] = useState(false)
   const [debounceTimer, setDebounceTimer] = useState<NodeJS.Timeout | null>(null)
+
+  // states for admin hadnling
+  const [adminOpen, setAdminOpen] = useState(false)
+  const [adminUser, setAdminUser] = useState("")
+  const [adminPass, setAdminPass] = useState("")
+  const [updateLoading, setUpdateLoading] = useState(false)
+  const [updateMessage, setUpdateMessage] = useState("")
 
   // debounce helper to not spam the backend
   const debounce = (fn: () => void) => {
@@ -38,16 +46,16 @@ export default function FacultySearchPage() {
   }
   // setTimeout: wait before executing osme funciton
   // clearTimeout: cancels an established timeout
-  
+
   // trigger search from name or interest
   useEffect(() => {
     const noQuery = nameSearch.trim() === "" && interestSearch.trim() === ""
 
-  if (noQuery) {
-    if (debounceTimer) clearTimeout(debounceTimer)
-    setResults([])
-    return
-  }
+    if (noQuery) {
+      if (debounceTimer) clearTimeout(debounceTimer)
+      setResults([])
+      return
+    }
 
     debounce(async () => {
       setLoading(true)
@@ -78,15 +86,15 @@ export default function FacultySearchPage() {
     // do not refetch if already selected
     if (selectedFaculty && selectedFaculty.id === only.id) return
 
-    ;(async () => {
-      try {
-        const res = await fetch(`http://127.0.0.1:8000/api/v1/faculty/${only.id}`)
-        const data: FacultyDetail = await res.json()
-        setSelectedFaculty(data)
-      } catch (_) {
-        setSelectedFaculty(null)
-      }
-    })()
+      ; (async () => {
+        try {
+          const res = await fetch(`http://127.0.0.1:8000/api/v1/faculty/${only.id}`)
+          const data: FacultyDetail = await res.json()
+          setSelectedFaculty(data)
+        } catch (_) {
+          setSelectedFaculty(null)
+        }
+      })()
   }, [results])
 
 
@@ -107,6 +115,30 @@ export default function FacultySearchPage() {
     }
   }
 
+  // handle update button
+  const handleUpdate = async () => {
+    if (!adminUser || !adminPass) return
+    setUpdateLoading(true)
+    setUpdateMessage("")
+
+    try {
+      const res = await fetch("http://127.0.0.1:8000/api/v1/update", {
+        method: "POST",
+        headers: {
+          "Authorization": "Basic " + btoa(`${adminUser}:${adminPass}`)
+        }
+      })
+      const data = await res.json()
+      if (res.ok) {
+        setUpdateMessage(`Success: ${data.record_count} records updated`)
+      } else {
+        setUpdateMessage(`Error: ${data.detail || "Unknown error"}`)
+      }
+    } catch (e) {
+      setUpdateMessage(`Error: ${e}`)
+    }
+    setUpdateLoading(false)
+  }
 
   return (
     <div className="min-h-screen relative overflow-hidden">
@@ -126,16 +158,19 @@ export default function FacultySearchPage() {
 
       <div className="container mx-auto px-4 py-8 max-w-7xl">
 
+
+
         <header className="mb-8 text-center">
           <h1 className="text-3xl font-bold text-[hsl(0,0%,13%)] mb-2 tracking-tight">Purdue ECE Faculty Directory</h1>
           <p className="text-sm text-muted-foreground">Search by name or research interests</p>
         </header>
 
         <div className="glass rounded-2xl p-6 mb-6 shadow-xl">
+
           <div className="grid md:grid-cols-2 gap-4 mb-4">
 
             <div className="space-y-2">
-              <label htmlFor="name-search" className="text-xs font-medium text-foreground block">Search by Name</label>
+              <label htmlFor="name-search" className="text-sm font-medium text-foreground block">Search by Name</label>
               <div className="relative">
                 <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
                 <Input
@@ -150,7 +185,7 @@ export default function FacultySearchPage() {
             </div>
 
             <div className="space-y-2">
-              <label htmlFor="interest-search" className="text-xs font-medium text-foreground block">Search by Research Interest</label>
+              <label htmlFor="interest-search" className="text-sm font-medium text-foreground block">Search by Research Interest</label>
               <div className="relative">
                 <BookOpen className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
                 <Input
@@ -164,7 +199,37 @@ export default function FacultySearchPage() {
               </div>
             </div>
 
+
+
           </div>
+          {/* Admin Update Section */}
+          <Button className="mb-4" variant="outline" onClick={() => setAdminOpen(!adminOpen)}>
+            {adminOpen ? "Close Admin Panel" : "Admin Update"}
+          </Button>
+
+          {adminOpen && (
+            <div className="mt-0 space-y-2">
+              <Input
+                type="text"
+                placeholder="Username"
+                value={adminUser}
+                onChange={(e) => setAdminUser(e.target.value)}
+                className="mb-4"
+              />
+              <Input
+                type="password"
+                placeholder="Password"
+                value={adminPass}
+                onChange={(e) => setAdminPass(e.target.value)}
+                className="mb-4"
+              />
+              <Button onClick={handleUpdate} disabled={updateLoading}>
+                {updateLoading ? "Updating..." : "Run Update"}
+              </Button>
+              {updateMessage && <p className="text-sm mt-2">{updateMessage}</p>}
+            </div>
+          )}
+          <br></br>
 
           {(nameSearch || interestSearch) && (
             <div className="flex items-center justify-between pt-3 border-t border-border/50">
@@ -254,6 +319,8 @@ export default function FacultySearchPage() {
         )}
 
       </div>
+
+
     </div>
   )
 }

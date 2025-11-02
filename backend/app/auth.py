@@ -1,11 +1,15 @@
 from fastapi import Depends, HTTPException, status
 from fastapi.security import HTTPBasic, HTTPBasicCredentials
 import secrets
+import os
+from dotenv import load_dotenv
 
 security = HTTPBasic()
 
-ADMIN_USER = "admin"
-ADMIN_PASS = "yourpassword"
+load_dotenv()
+
+ADMIN_USER = os.getenv("ADMIN_USER")
+ADMIN_PASS = os.getenv("ADMIN_PASS")
 
 def verify_admin(credentials: HTTPBasicCredentials = Depends(security)):
     correct_user = secrets.compare_digest(credentials.username, ADMIN_USER)

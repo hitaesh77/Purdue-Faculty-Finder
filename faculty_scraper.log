@@ -1,820 +1,820 @@
-[2025-11-01 19:13:18] --- Starting scrape of: https://engineering.purdue.edu/ECE/People/Faculty ---
-[2025-11-01 19:13:19] Successfully fetched faculty list (Status: 200)
-[2025-11-01 19:13:19] Found 134 faculty name containers
-[2025-11-01 19:13:19] [1/134] Hadiseh Alaeian
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242740
-[2025-11-01 19:13:19] [2/134] Muhammad Ashraful Alam
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3171
-[2025-11-01 19:13:19] [3/134] Dionysios Aliprantis
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=92117
-[2025-11-01 19:13:19] [4/134] Jan P. Allebach
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3043
-[2025-11-01 19:13:19] [5/134] Joerg Appenzeller
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=32402
-[2025-11-01 19:13:19] [6/134] Santokh Badesha
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242059
-[2025-11-01 19:13:19] [7/134] Saurabh Bagchi (area chair)
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3261
-[2025-11-01 19:13:19] [8/134] Mark R. Bell
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3137
-[2025-11-01 19:13:19] [9/134] Peter Bermel (area chair)
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=75045
-[2025-11-01 19:13:19] [10/134] Sunil A. Bhave
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=122298
-[2025-11-01 19:13:19] [11/134] Alexandra Boltasseva
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=46150
-[2025-11-01 19:13:19] [12/134] Charles A. Bouman
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2889
-[2025-11-01 19:13:19] [13/134] Mireille "Mimi" Boutin
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3165
-[2025-11-01 19:13:19] [14/134] Christopher Brinton
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=218378
-[2025-11-01 19:13:19] [15/134] Aaron Brovont
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=256041
-[2025-11-01 19:13:19] [16/134] Stanley Chan (area chair)
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=111901
-[2025-11-01 19:13:19] [17/134] Arnold Chung-Ye Chen
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=159402
-[2025-11-01 19:13:19] [18/134] Xiaoqi Danny Chen
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=287000
-[2025-11-01 19:13:19] [19/134] Yaobin Chen
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=296665
-[2025-11-01 19:13:19] [20/134] Zhihong Chen
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=66392
-[2025-11-01 19:13:19] [21/134] Weng C. Chew
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=173044
-[2025-11-01 19:13:19] [22/134] Mung Chiang
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238
-[2025-11-01 19:13:19] [23/134] Mary Comer
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8864
-[2025-11-01 19:13:19] [24/134] Meng Cui
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=121778
-[2025-11-01 19:13:19] [25/134] Keerthi Priya Dasala
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=313565
-[2025-11-01 19:13:19] [26/134] Supriyo Datta
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3286
-[2025-11-01 19:13:19] [27/134] James Davis
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242045
-[2025-11-01 19:13:19] [28/134] Edward J. Delp
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2632
-[2025-11-01 19:13:19] [29/134] Rosa Diaz Rivas
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=149835
-[2025-11-01 19:13:19] [30/134] Yi Ding
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=285937
-[2025-11-01 19:13:19] [31/134] Shengwang Du
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=303298
-[2025-11-01 19:13:19] [32/134] Daniel S. Elliott
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2925
-[2025-11-01 19:13:19] [33/134] Steve France
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=284993
-[2025-11-01 19:13:19] [34/134] Jing Gao
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246669
-[2025-11-01 19:13:19] [35/134] Arif Ghafoor
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2827
-[2025-11-01 19:13:19] [36/134] Mahsa Ghasemi
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=256126
-[2025-11-01 19:13:19] [37/134] Zahra Ghodsi
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270860
-[2025-11-01 19:13:19] [38/134] Luis Gomez
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242048
-[2025-11-01 19:13:19] [39/134] Qi Guo
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=256878
-[2025-11-01 19:13:19] [40/134] Sumeet Gupta
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=185139
-[2025-11-01 19:13:19] [41/134] Vijay Gupta
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=267567
-[2025-11-01 19:13:19] [42/134] Abolfazl Hashemi
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=255728
-[2025-11-01 19:13:19] [43/134] Jianghai Hu
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3061
-[2025-11-01 19:13:19] [44/134] Y. Charlie Hu
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3351
-[2025-11-01 19:13:19] [45/134] Muhammad Hussain
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270676
-[2025-11-01 19:13:19] [46/134] David I. Inouye
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=218058
-[2025-11-01 19:13:19] [47/134] Zubin Jacob
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=125866
-[2025-11-01 19:13:19] [48/134] Leah H. Jamieson
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3106
-[2025-11-01 19:13:19] [49/134] David B. Janes
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2934
-[2025-11-01 19:13:19] [50/134] Brent Jesiek
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=45642
-[2025-11-01 19:13:19] [51/134] Dan Jiao
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8945
-[2025-11-01 19:13:19] [52/134] Dr. Mark Johnson
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3130
-[2025-11-01 19:13:19] [53/134] Byunghoo Jung
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8942
-[2025-11-01 19:13:19] [54/134] Avinash C. Kak
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2833
-[2025-11-01 19:13:19] [55/134] Vassilis Kekatos
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=285947
-[2025-11-01 19:13:19] [56/134] Alexander Kildishev
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2797
-[2025-11-01 19:13:19] [57/134] Jongwook Kim
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=301609
-[2025-11-01 19:13:19] [58/134] Kwang Taik Kim
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=243261
-[2025-11-01 19:13:19] [59/134] Younghyun Kim
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=293362
-[2025-11-01 19:13:19] [60/134] Gerhard Klimeck
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3010
-[2025-11-01 19:13:19] [61/134] Cheng-Kok Koh
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2895
-[2025-11-01 19:13:19] [62/134] James V. Krogmeier
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3040
-[2025-11-01 19:13:19] [63/134] Tillmann Kubis
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=164638
-[2025-11-01 19:13:19] [64/134] Milind Kulkarni
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=55852
-[2025-11-01 19:13:19] [65/134] C. S. George Lee
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2910
-[2025-11-01 19:13:19] [66/134] Woongkul Matt Lee
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=302765
-[2025-11-01 19:13:19] [67/134] James S. Lehnert
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3037
-[2025-11-01 19:13:19] [68/134] Haitong Li
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270857
-[2025-11-01 19:13:19] [69/134] Husheng Li
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270776
-[2025-11-01 19:13:19] [70/134] Junfei Li
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270981
-[2025-11-01 19:13:19] [71/134] Lingxi Li
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=296655
-[2025-11-01 19:13:19] [72/134] Tongcang Li
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=112557
-[2025-11-01 19:13:19] [73/134] Chaoyue Liu
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=299162
-[2025-11-01 19:13:19] [74/134] David J. Love
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2946
-[2025-11-01 19:13:19] [75/134] Yung-Hsiang Lu
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3355
-[2025-11-01 19:13:19] [76/134] Joseph M. Lukens
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=310905
-[2025-11-01 19:13:19] [77/134] Mark S. Lundstrom
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3140
-[2025-11-01 19:13:19] [78/134] Aravind Machiry
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=248800
-[2025-11-01 19:13:19] [79/134] Joseph Makin
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786
-[2025-11-01 19:13:19] [80/134] Anuran Makur
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=258037
-[2025-11-01 19:13:19] [81/134] Michael Manfra
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=52062
-[2025-11-01 19:13:19] [82/134] Jason D. McKinney
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=257064
-[2025-11-01 19:13:19] [83/134] Michael R. Melloch
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3162
-[2025-11-01 19:13:19] [84/134] Saeed Mohammadi
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3246
-[2025-11-01 19:13:19] [85/134] Dallas Morisette
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=77034
-[2025-11-01 19:13:19] [86/134] Evgenii Narimanov
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=28040
-[2025-11-01 19:13:19] [87/134] Philip E. Paré
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=236400
-[2025-11-01 19:13:19] [88/134] Brooke Parks
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=125121
-[2025-11-01 19:13:19] [89/134] Steven D. Pekarek
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3276
-[2025-11-01 19:13:19] [90/134] Dimitrios Peroulis
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2967
-[2025-11-01 19:13:19] [91/134] Irith Pomeranz
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3028
-[2025-11-01 19:13:19] [92/134] Minghao Qi
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8861
-[2025-11-01 19:13:19] [93/134] Junjie Qin
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246563
-[2025-11-01 19:13:19] [94/134] Qiang Qiu
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=238920
-[2025-11-01 19:13:19] [95/134] Xiaokang Qiu
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=145120
-[2025-11-01 19:13:19] [96/134] Vijay Raghunathan
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=24522
-[2025-11-01 19:13:19] [97/134] Anand Raghunathan (area chair)
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=46143
-[2025-11-01 19:13:19] [98/134] Karthik Ramani
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=12331
-[2025-11-01 19:13:19] [99/134] Sanjay Rao
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3252
-[2025-11-01 19:13:19] [100/134] Amy Reibman
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=117177
-[2025-11-01 19:13:19] [101/134] Timothy Rogers
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=134165
-[2025-11-01 19:13:19] [102/134] Thomas Roth
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246666
-[2025-11-01 19:13:19] [103/134] Kaushik Roy
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3085
-[2025-11-01 19:13:19] [104/134] Gesualdo Scutari
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=126294
-[2025-11-01 19:13:19] [105/134] Shreyas Sen
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=134162
-[2025-11-01 19:13:19] [106/134] Ali Shakouri
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=74115
-[2025-11-01 19:13:19] [107/134] Vladimir M. Shalaev
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3322
-[2025-11-01 19:13:19] [108/134] Behzad Sharif
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=271279
-[2025-11-01 19:13:19] [109/134] Vishal Shrivastav
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246663
-[2025-11-01 19:13:19] [110/134] Jeffrey M. Siskind
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3055
-[2025-11-01 19:13:19] [111/134] Lu Su
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246660
-[2025-11-01 19:13:19] [112/134] Scott D. Sudhoff
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3265
-[2025-11-01 19:13:19] [113/134] Shreyas Sundaram (area chair)
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=117180
-[2025-11-01 19:13:19] [114/134] Hong Z. Tan
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3022
-[2025-11-01 19:13:19] [115/134] Takashi Tanaka
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=308322
-[2025-11-01 19:13:19] [116/134] Mithuna S. Thottethodi
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3168
-[2025-11-01 19:13:19] [117/134] Santiago Torres-Arias
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=238320
-[2025-11-01 19:13:19] [118/134] Vishrant Tripathi
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=302023
-[2025-11-01 19:13:19] [119/134] Pramey Upadhyaya (area chair)
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=182798
-[2025-11-01 19:13:19] [120/134] T. N. Vijaykumar
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3293
-[2025-11-01 19:13:19] [121/134] Phillip Walter
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=255841
-[2025-11-01 19:13:19] [122/134] Chih-Chun Wang
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=12670
-[2025-11-01 19:13:19] [123/134] Haiyan Wang
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=139178
-[2025-11-01 19:13:19] [124/134] Jingbo Wang
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=287003
-[2025-11-01 19:13:19] [125/134] Xiaoqian (Joy) Wang
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=221122
-[2025-11-01 19:13:19] [126/134] Kevin J. Webb
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3097
-[2025-11-01 19:13:19] [127/134] Dana Weinstein
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=124038
-[2025-11-01 19:13:19] [128/134] Jenna Wise DiVincenzo
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=285942
-[2025-11-01 19:13:19] [129/134] George R. Wodicka
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3004
-[2025-11-01 19:13:19] [130/134] Peide "Peter" Ye
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3198
-[2025-11-01 19:13:19] [131/134] Stanislaw H. Zak
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3272
-[2025-11-01 19:13:19] [132/134] Fengqing Maggie Zhu
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=117183
-[2025-11-01 19:13:19] [133/134] Carla Zoltowski
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2874
-[2025-11-01 19:13:19] [134/134] Michael D. Zoltowski
-[2025-11-01 19:13:19]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3159
-[2025-11-01 19:13:19] --- Scrape complete. Successfully extracted 134 faculty entries ---
-[2025-11-01 19:13:19] Data saved to faculty_data.json
-[2025-11-01 19:13:19] ============================================================
-[2025-11-01 19:13:19] FACULTY SCRAPER - STEP 2: Enriching with Profile Details
-[2025-11-01 19:13:19] ============================================================
-[2025-11-01 19:13:19] [1/134] Scraping profile for: Hadiseh Alaeian
-[2025-11-01 19:13:20]     Webpage: https://engineering.purdue.edu/qnp
-[2025-11-01 19:13:20]     Research: Hybrid, scalable, and integrated photonic quantum technologies and theoretical and experimental quan...
-[2025-11-01 19:13:20] [2/134] Scraping profile for: Muhammad Ashraful Alam
-[2025-11-01 19:13:20]     Webpage: https://engineering.purdue.edu/~alam/
-[2025-11-01 19:13:20]     Research: Performance and Reliability Physics of transistors, biosensors, solar cells to address fundamental c...
-[2025-11-01 19:13:21] [3/134] Scraping profile for: Dionysios Aliprantis
-[2025-11-01 19:13:21]     Webpage: https://engineering.purdue.edu/~dionysis/
-[2025-11-01 19:13:21]     Research: electric machines and drives, power systems, integration of renewable energy sources, electric trans...
-[2025-11-01 19:13:22] [4/134] Scraping profile for: Jan P. Allebach
-[2025-11-01 19:13:22]     Webpage: Not found
-[2025-11-01 19:13:22]     Research: Electronic imaging systems, image capture and rendering, color image processing, image quality, docu...
-[2025-11-01 19:13:22] [5/134] Scraping profile for: Joerg Appenzeller
-[2025-11-01 19:13:23]     Webpage: http://www.purdue.edu/discoverypark/nanotechnology/membership/Appenzeller/index.html
-[2025-11-01 19:13:23]     Research: Device and transport physics of low-dimensional systems, experimental verification of novel device c...
-[2025-11-01 19:13:23] [6/134] Scraping profile for: Santokh Badesha
-[2025-11-01 19:13:23]     Webpage: Not found
-[2025-11-01 19:13:23]     Research: Image generation and processing, Intellectual property generation and management, corporate partners...
-[2025-11-01 19:13:24] [7/134] Scraping profile for: Saurabh Bagchi (area chair)
-[2025-11-01 19:13:24]     Webpage: https://bagchi.github.io/
-[2025-11-01 19:13:24]     Research: Dependable distributed systems, secure autonomy, embedded wireless networks, predictable machine lea...
-[2025-11-01 19:13:24] [8/134] Scraping profile for: Mark R. Bell
-[2025-11-01 19:13:25]     Webpage: https://engineering.purdue.edu/~mrb/
-[2025-11-01 19:13:25]     Research: Information theory, communication theory and systems, radar systems and signal processing, signal th...
-[2025-11-01 19:13:25] [9/134] Scraping profile for: Peter Bermel (area chair)
-[2025-11-01 19:13:26]     Webpage: http://web.ics.purdue.edu/~pbermel/
-[2025-11-01 19:13:26]     Research: Applications of nanophotonics to microelectronics, photovoltaics, thermophotovoltaics, and thermal p...
-[2025-11-01 19:13:26] [10/134] Scraping profile for: Sunil A. Bhave
-[2025-11-01 19:13:26]     Webpage: http://engineering.purdue.edu/oxidemems/
-[2025-11-01 19:13:26]     Research: MEMS
-[2025-11-01 19:13:27] [11/134] Scraping profile for: Alexandra Boltasseva
-[2025-11-01 19:13:27]     Webpage: https://engineering.purdue.edu/~aeb/
-[2025-11-01 19:13:27]     Research: Nanophotonics, quantum photonics, machine learning, nanofabrication, plasmonics, metamaterials, inte...
-[2025-11-01 19:13:28] [12/134] Scraping profile for: Charles A. Bouman
-[2025-11-01 19:13:28]     Webpage: https://engineering.purdue.edu/~bouman/
-[2025-11-01 19:13:28]     Research: Image processing, statistical image modeling, pattern recognition, image printing and display, tomog...
-[2025-11-01 19:13:28] [13/134] Scraping profile for: Mireille "Mimi" Boutin
-[2025-11-01 19:13:29]     Webpage: http://www.ece.purdue.edu/~mboutin
-[2025-11-01 19:13:29]     Research: Computer vision and image processing, automatic language translation, mobile device applications, in...
-[2025-11-01 19:13:29] [14/134] Scraping profile for: Christopher Brinton
-[2025-11-01 19:13:29]     Webpage: http://www.cbrinton.net/
-[2025-11-01 19:13:29]     Research: Network optimization, machine learning, edge and fog computing, signal processing, wireless networks...
-[2025-11-01 19:13:30] [15/134] Scraping profile for: Aaron Brovont
-[2025-11-01 19:13:30]     Webpage: Not found
-[2025-11-01 19:13:30]     Research: Not found
-[2025-11-01 19:13:31] [16/134] Scraping profile for: Stanley Chan (area chair)
-[2025-11-01 19:13:31]     Webpage: https://engineering.purdue.edu/ChanGroup/
-[2025-11-01 19:13:31]     Research: image restoration, computational photography, photon limited imaging, statistical signal processing
-[2025-11-01 19:13:31] [17/134] Scraping profile for: Arnold Chung-Ye Chen
-[2025-11-01 19:13:32]     Webpage: Not found
-[2025-11-01 19:13:32]     Research: Entrepreneurship and semiconductor manufacturing
-[2025-11-01 19:13:32] [18/134] Scraping profile for: Xiaoqi Danny Chen
-[2025-11-01 19:13:32]     Webpage: Not found
-[2025-11-01 19:13:32]     Research: Algorithm design for high-speed programmable network switches and SmartNICs, to improve network perf...
-[2025-11-01 19:13:33] [19/134] Scraping profile for: Yaobin Chen
-[2025-11-01 19:13:33]     Webpage: https://engineering.purdue.edu/TASI
-[2025-11-01 19:13:33]     Research: Intelligent transportation systems, automated vehicles, EV and HEV, intelligent controls and robotic...
-[2025-11-01 19:13:34] [20/134] Scraping profile for: Zhihong Chen
-[2025-11-01 19:13:34]     Webpage: http://web.ics.purdue.edu/~chen658/
-[2025-11-01 19:13:34]     Research: Exploration of physical properties of nano-materials; control and manipulation of material propertie...
-[2025-11-01 19:13:35] [21/134] Scraping profile for: Weng C. Chew
-[2025-11-01 19:13:35]     Webpage: https://engineering.purdue.edu/wcchew/
-[2025-11-01 19:13:35]     Research: Electromagnetics, fast and efficient computational algorithms for solving electromagnetic scattering...
-[2025-11-01 19:13:35] [22/134] Scraping profile for: Mung Chiang
-[2025-11-01 19:13:35]     Webpage: Not found
-[2025-11-01 19:13:35]     Research: Optimization of networks, network utility maximization, network function optimization, Fog networkin...
-[2025-11-01 19:13:36] [23/134] Scraping profile for: Mary Comer
-[2025-11-01 19:13:36]     Webpage: Not found
-[2025-11-01 19:13:36]     Research: Video compression, scalable video coding, medical imaging, image and video processing
-[2025-11-01 19:13:37] [24/134] Scraping profile for: Meng Cui
-[2025-11-01 19:13:37]     Webpage: https://mengcuilab.github.io/
-[2025-11-01 19:13:37]     Research: Neurophotonics, In vivo imaging, High-throughput and high-quality imaging, Drug discovery, Wavefront...
-[2025-11-01 19:13:37] [25/134] Scraping profile for: Keerthi Priya Dasala
-[2025-11-01 19:13:37]     Webpage: Not found
-[2025-11-01 19:13:37]     Research: Not found
-[2025-11-01 19:13:38] [26/134] Scraping profile for: Supriyo Datta
-[2025-11-01 19:13:38]     Webpage: https://nanohub.org/groups/supriyodatta
-[2025-11-01 19:13:38]     Research: Spin electronics, nanoscale energy conversion, molecular electronics and mesoscopic superconductivit...
-[2025-11-01 19:13:39] [27/134] Scraping profile for: James Davis
-[2025-11-01 19:13:39]     Webpage: https://davisjam.github.io/
-[2025-11-01 19:13:39]     Research: I study the engineering of computing systems, writ broad. My primary interests are in software corre...
-[2025-11-01 19:13:39] [28/134] Scraping profile for: Edward J. Delp
-[2025-11-01 19:13:40]     Webpage: https://engineering.purdue.edu/~ace/
-[2025-11-01 19:13:40]     Research: Image processing, image and video compression, information security, multimedia systems, medical ima...
-[2025-11-01 19:13:40] [29/134] Scraping profile for: Rosa Diaz Rivas
-[2025-11-01 19:13:40]     Webpage: Not found
-[2025-11-01 19:13:40]     Research: Not found
-[2025-11-01 19:13:41] [30/134] Scraping profile for: Yi Ding
-[2025-11-01 19:13:41]     Webpage: https://y-ding.github.io/
-[2025-11-01 19:13:41]     Research: AI/ML Systems, Sustainable Computing, Computer Systems, Computer Architecture, Machine Learning, Hea...
-[2025-11-01 19:13:42] [31/134] Scraping profile for: Shengwang Du
-[2025-11-01 19:13:42]     Webpage: https://engineering.purdue.edu/QuantumOptics
-[2025-11-01 19:13:42]     Research: Atomic, Molecular, and Optical (AMO) Physics, Quantum Optics, Quantum Networks, Quantum Computing, O...
-[2025-11-01 19:13:42] [32/134] Scraping profile for: Daniel S. Elliott
-[2025-11-01 19:13:42]     Webpage: https://engineering.purdue.edu/ElliottLab
-[2025-11-01 19:13:42]     Research: Nonlinear optics, multiphoton processes, photoionization, competition between optical processes, coh...
-[2025-11-01 19:13:43] [33/134] Scraping profile for: Steve France
-[2025-11-01 19:13:43]     Webpage: Not found
-[2025-11-01 19:13:43]     Research: Software engineering practices, processes and management; quality assurance; system design and integ...
-[2025-11-01 19:13:44] [34/134] Scraping profile for: Jing Gao
-[2025-11-01 19:13:44]     Webpage: Not found
-[2025-11-01 19:13:44]     Research: Data and information analysis with a focus on data mining. In particular, I am interested in informa...
-[2025-11-01 19:13:44] [35/134] Scraping profile for: Arif Ghafoor
-[2025-11-01 19:13:45]     Webpage: https://engineering.purdue.edu/~dmultlab/
-[2025-11-01 19:13:45]     Research: Multimedia systems, databases, distributed computing systems, broadband multimedia networking
-[2025-11-01 19:13:45] [36/134] Scraping profile for: Mahsa Ghasemi
-[2025-11-01 19:13:45]     Webpage: https://mahsaghasemi.github.io/
-[2025-11-01 19:13:45]     Research: Task-Oriented Knowledge Acquisition and Reasoning; Online Learning and Control; Human-Robot Interact...
-[2025-11-01 19:13:46] [37/134] Scraping profile for: Zahra Ghodsi
-[2025-11-01 19:13:46]     Webpage: Not found
-[2025-11-01 19:13:46]     Research: Trustworthy machine learning, applied cryptography
-[2025-11-01 19:13:46] [38/134] Scraping profile for: Luis Gomez
-[2025-11-01 19:13:47]     Webpage: Not found
-[2025-11-01 19:13:47]     Research: Electromagnetics, computational analysis, design, and uncertainty quantification of electromagnetic ...
-[2025-11-01 19:13:47] [39/134] Scraping profile for: Qi Guo
-[2025-11-01 19:13:48]     Webpage: http://qiguo.org/
-[2025-11-01 19:13:48]     Research: Computational imaging, computer vision, machine learning, optics
-[2025-11-01 19:13:48] [40/134] Scraping profile for: Sumeet Gupta
-[2025-11-01 19:13:48]     Webpage: Not found
-[2025-11-01 19:13:48]     Research: Device-circuit co-design in emerging nanotechnologies for Boolean and non-Boolean computing, spintro...
-[2025-11-01 19:13:49] [41/134] Scraping profile for: Vijay Gupta
-[2025-11-01 19:13:49]     Webpage: https://engineering.purdue.edu/Vijay-Gupta
-[2025-11-01 19:13:49]     Research: Intersection of control theory and machine learning,  Distributed estimation and decision making, Cy...
-[2025-11-01 19:13:50] [42/134] Scraping profile for: Abolfazl Hashemi
-[2025-11-01 19:13:50]     Webpage: https://abolfazlh.github.io/
-[2025-11-01 19:13:50]     Research: Large-Scale Optimization for AI and ML, Learning at the Edge, and Decision-Making under Uncertainty.
-[2025-11-01 19:13:50] [43/134] Scraping profile for: Jianghai Hu
-[2025-11-01 19:13:51]     Webpage: https://engineering.purdue.edu/~jianghai/
-[2025-11-01 19:13:51]     Research: Hybrid systems; multi-agent systems; control of uncertain systems; control applications (e.g. in sen...
-[2025-11-01 19:13:51] [44/134] Scraping profile for: Y. Charlie Hu
-[2025-11-01 19:13:51]     Webpage: http://www.ece.purdue.edu/~ychu/
-[2025-11-01 19:13:51]     Research: Distributed systems, operating systems, networking, parallel computing
-[2025-11-01 19:13:52] [45/134] Scraping profile for: Muhammad Hussain
-[2025-11-01 19:13:52]     Webpage: http://mmhlabs.org
-[2025-11-01 19:13:52]     Research: mmh Lab (Device Research Engineering Applications and Manufacturing: DREAM) designs and develops fut...
-[2025-11-01 19:13:53] [46/134] Scraping profile for: David I. Inouye
-[2025-11-01 19:13:53]     Webpage: https://www.davidinouye.com/
-[2025-11-01 19:13:53]     Research: Trustworthy machine learning, robust ML, causal ML, explainability, fairness
-[2025-11-01 19:13:53] [47/134] Scraping profile for: Zubin Jacob
-[2025-11-01 19:13:53]     Webpage: http://www.electrodynamics.org/
-[2025-11-01 19:13:53]     Research: Quantum Vacuum, Quantum Photonics, Energy and Thermal
-[2025-11-01 19:13:54] [48/134] Scraping profile for: Leah H. Jamieson
-[2025-11-01 19:13:54]     Webpage: http://ece.www.ecn.purdue.edu/~lhj/
-[2025-11-01 19:13:54]     Research: Engineering education; engineering and society; public understanding of engineering; diversity, equi...
-[2025-11-01 19:13:55] [49/134] Scraping profile for: David B. Janes
-[2025-11-01 19:13:55]     Webpage: https://birck.research.purdue.edu/directory/david-janes/
-[2025-11-01 19:13:55]     Research: Nanoscale electronic devices, molecular/semiconductor devices, microwave devices and characterizatio...
-[2025-11-01 19:13:55] [50/134] Scraping profile for: Brent Jesiek
-[2025-11-01 19:13:56]     Webpage: http://web.ics.purdue.edu/~bjesiek/
-[2025-11-01 19:13:56]     Research: History and social studies of electrical engineering and computer engineering,<br>
+[2025-11-01 21:28:07] --- Starting scrape of: https://engineering.purdue.edu/ECE/People/Faculty ---
+[2025-11-01 21:28:08] Successfully fetched faculty list (Status: 200)
+[2025-11-01 21:28:09] Found 134 faculty name containers
+[2025-11-01 21:28:09] [1/134] Hadiseh Alaeian
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242740
+[2025-11-01 21:28:09] [2/134] Muhammad Ashraful Alam
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3171
+[2025-11-01 21:28:09] [3/134] Dionysios Aliprantis
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=92117
+[2025-11-01 21:28:09] [4/134] Jan P. Allebach
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3043
+[2025-11-01 21:28:09] [5/134] Joerg Appenzeller
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=32402
+[2025-11-01 21:28:09] [6/134] Santokh Badesha
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242059
+[2025-11-01 21:28:09] [7/134] Saurabh Bagchi (area chair)
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3261
+[2025-11-01 21:28:09] [8/134] Mark R. Bell
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3137
+[2025-11-01 21:28:09] [9/134] Peter Bermel (area chair)
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=75045
+[2025-11-01 21:28:09] [10/134] Sunil A. Bhave
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=122298
+[2025-11-01 21:28:09] [11/134] Alexandra Boltasseva
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=46150
+[2025-11-01 21:28:09] [12/134] Charles A. Bouman
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2889
+[2025-11-01 21:28:09] [13/134] Mireille "Mimi" Boutin
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3165
+[2025-11-01 21:28:09] [14/134] Christopher Brinton
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=218378
+[2025-11-01 21:28:09] [15/134] Aaron Brovont
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=256041
+[2025-11-01 21:28:09] [16/134] Stanley Chan (area chair)
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=111901
+[2025-11-01 21:28:09] [17/134] Arnold Chung-Ye Chen
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=159402
+[2025-11-01 21:28:09] [18/134] Xiaoqi Danny Chen
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=287000
+[2025-11-01 21:28:09] [19/134] Yaobin Chen
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=296665
+[2025-11-01 21:28:09] [20/134] Zhihong Chen
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=66392
+[2025-11-01 21:28:09] [21/134] Weng C. Chew
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=173044
+[2025-11-01 21:28:09] [22/134] Mung Chiang
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238
+[2025-11-01 21:28:09] [23/134] Mary Comer
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8864
+[2025-11-01 21:28:09] [24/134] Meng Cui
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=121778
+[2025-11-01 21:28:09] [25/134] Keerthi Priya Dasala
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=313565
+[2025-11-01 21:28:09] [26/134] Supriyo Datta
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3286
+[2025-11-01 21:28:09] [27/134] James Davis
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242045
+[2025-11-01 21:28:09] [28/134] Edward J. Delp
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2632
+[2025-11-01 21:28:09] [29/134] Rosa Diaz Rivas
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=149835
+[2025-11-01 21:28:09] [30/134] Yi Ding
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=285937
+[2025-11-01 21:28:09] [31/134] Shengwang Du
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=303298
+[2025-11-01 21:28:09] [32/134] Daniel S. Elliott
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2925
+[2025-11-01 21:28:09] [33/134] Steve France
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=284993
+[2025-11-01 21:28:09] [34/134] Jing Gao
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246669
+[2025-11-01 21:28:09] [35/134] Arif Ghafoor
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2827
+[2025-11-01 21:28:09] [36/134] Mahsa Ghasemi
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=256126
+[2025-11-01 21:28:09] [37/134] Zahra Ghodsi
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270860
+[2025-11-01 21:28:09] [38/134] Luis Gomez
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242048
+[2025-11-01 21:28:09] [39/134] Qi Guo
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=256878
+[2025-11-01 21:28:09] [40/134] Sumeet Gupta
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=185139
+[2025-11-01 21:28:09] [41/134] Vijay Gupta
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=267567
+[2025-11-01 21:28:09] [42/134] Abolfazl Hashemi
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=255728
+[2025-11-01 21:28:09] [43/134] Jianghai Hu
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3061
+[2025-11-01 21:28:09] [44/134] Y. Charlie Hu
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3351
+[2025-11-01 21:28:09] [45/134] Muhammad Hussain
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270676
+[2025-11-01 21:28:09] [46/134] David I. Inouye
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=218058
+[2025-11-01 21:28:09] [47/134] Zubin Jacob
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=125866
+[2025-11-01 21:28:09] [48/134] Leah H. Jamieson
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3106
+[2025-11-01 21:28:09] [49/134] David B. Janes
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2934
+[2025-11-01 21:28:09] [50/134] Brent Jesiek
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=45642
+[2025-11-01 21:28:09] [51/134] Dan Jiao
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8945
+[2025-11-01 21:28:09] [52/134] Dr. Mark Johnson
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3130
+[2025-11-01 21:28:09] [53/134] Byunghoo Jung
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8942
+[2025-11-01 21:28:09] [54/134] Avinash C. Kak
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2833
+[2025-11-01 21:28:09] [55/134] Vassilis Kekatos
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=285947
+[2025-11-01 21:28:09] [56/134] Alexander Kildishev
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2797
+[2025-11-01 21:28:09] [57/134] Jongwook Kim
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=301609
+[2025-11-01 21:28:09] [58/134] Kwang Taik Kim
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=243261
+[2025-11-01 21:28:09] [59/134] Younghyun Kim
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=293362
+[2025-11-01 21:28:09] [60/134] Gerhard Klimeck
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3010
+[2025-11-01 21:28:09] [61/134] Cheng-Kok Koh
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2895
+[2025-11-01 21:28:09] [62/134] James V. Krogmeier
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3040
+[2025-11-01 21:28:09] [63/134] Tillmann Kubis
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=164638
+[2025-11-01 21:28:09] [64/134] Milind Kulkarni
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=55852
+[2025-11-01 21:28:09] [65/134] C. S. George Lee
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2910
+[2025-11-01 21:28:09] [66/134] Woongkul Matt Lee
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=302765
+[2025-11-01 21:28:09] [67/134] James S. Lehnert
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3037
+[2025-11-01 21:28:09] [68/134] Haitong Li
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270857
+[2025-11-01 21:28:09] [69/134] Husheng Li
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270776
+[2025-11-01 21:28:09] [70/134] Junfei Li
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=270981
+[2025-11-01 21:28:09] [71/134] Lingxi Li
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=296655
+[2025-11-01 21:28:09] [72/134] Tongcang Li
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=112557
+[2025-11-01 21:28:09] [73/134] Chaoyue Liu
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=299162
+[2025-11-01 21:28:09] [74/134] David J. Love
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2946
+[2025-11-01 21:28:09] [75/134] Yung-Hsiang Lu
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3355
+[2025-11-01 21:28:09] [76/134] Joseph M. Lukens
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=310905
+[2025-11-01 21:28:09] [77/134] Mark S. Lundstrom
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3140
+[2025-11-01 21:28:09] [78/134] Aravind Machiry
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=248800
+[2025-11-01 21:28:09] [79/134] Joseph Makin
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786
+[2025-11-01 21:28:09] [80/134] Anuran Makur
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=258037
+[2025-11-01 21:28:09] [81/134] Michael Manfra
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=52062
+[2025-11-01 21:28:09] [82/134] Jason D. McKinney
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=257064
+[2025-11-01 21:28:09] [83/134] Michael R. Melloch
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3162
+[2025-11-01 21:28:09] [84/134] Saeed Mohammadi
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3246
+[2025-11-01 21:28:09] [85/134] Dallas Morisette
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=77034
+[2025-11-01 21:28:09] [86/134] Evgenii Narimanov
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=28040
+[2025-11-01 21:28:09] [87/134] Philip E. Paré
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=236400
+[2025-11-01 21:28:09] [88/134] Brooke Parks
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=125121
+[2025-11-01 21:28:09] [89/134] Steven D. Pekarek
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3276
+[2025-11-01 21:28:09] [90/134] Dimitrios Peroulis
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2967
+[2025-11-01 21:28:09] [91/134] Irith Pomeranz
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3028
+[2025-11-01 21:28:09] [92/134] Minghao Qi
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8861
+[2025-11-01 21:28:09] [93/134] Junjie Qin
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246563
+[2025-11-01 21:28:09] [94/134] Qiang Qiu
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=238920
+[2025-11-01 21:28:09] [95/134] Xiaokang Qiu
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=145120
+[2025-11-01 21:28:09] [96/134] Vijay Raghunathan
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=24522
+[2025-11-01 21:28:09] [97/134] Anand Raghunathan (area chair)
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=46143
+[2025-11-01 21:28:09] [98/134] Karthik Ramani
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=12331
+[2025-11-01 21:28:09] [99/134] Sanjay Rao
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3252
+[2025-11-01 21:28:09] [100/134] Amy Reibman
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=117177
+[2025-11-01 21:28:09] [101/134] Timothy Rogers
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=134165
+[2025-11-01 21:28:09] [102/134] Thomas Roth
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246666
+[2025-11-01 21:28:09] [103/134] Kaushik Roy
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3085
+[2025-11-01 21:28:09] [104/134] Gesualdo Scutari
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=126294
+[2025-11-01 21:28:09] [105/134] Shreyas Sen
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=134162
+[2025-11-01 21:28:09] [106/134] Ali Shakouri
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=74115
+[2025-11-01 21:28:09] [107/134] Vladimir M. Shalaev
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3322
+[2025-11-01 21:28:09] [108/134] Behzad Sharif
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=271279
+[2025-11-01 21:28:09] [109/134] Vishal Shrivastav
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246663
+[2025-11-01 21:28:09] [110/134] Jeffrey M. Siskind
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3055
+[2025-11-01 21:28:09] [111/134] Lu Su
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=246660
+[2025-11-01 21:28:09] [112/134] Scott D. Sudhoff
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3265
+[2025-11-01 21:28:09] [113/134] Shreyas Sundaram (area chair)
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=117180
+[2025-11-01 21:28:09] [114/134] Hong Z. Tan
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3022
+[2025-11-01 21:28:09] [115/134] Takashi Tanaka
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=308322
+[2025-11-01 21:28:09] [116/134] Mithuna S. Thottethodi
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3168
+[2025-11-01 21:28:09] [117/134] Santiago Torres-Arias
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=238320
+[2025-11-01 21:28:09] [118/134] Vishrant Tripathi
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=302023
+[2025-11-01 21:28:09] [119/134] Pramey Upadhyaya (area chair)
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=182798
+[2025-11-01 21:28:09] [120/134] T. N. Vijaykumar
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3293
+[2025-11-01 21:28:09] [121/134] Phillip Walter
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=255841
+[2025-11-01 21:28:09] [122/134] Chih-Chun Wang
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=12670
+[2025-11-01 21:28:09] [123/134] Haiyan Wang
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=139178
+[2025-11-01 21:28:09] [124/134] Jingbo Wang
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=287003
+[2025-11-01 21:28:09] [125/134] Xiaoqian (Joy) Wang
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=221122
+[2025-11-01 21:28:09] [126/134] Kevin J. Webb
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3097
+[2025-11-01 21:28:09] [127/134] Dana Weinstein
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=124038
+[2025-11-01 21:28:09] [128/134] Jenna Wise DiVincenzo
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=285942
+[2025-11-01 21:28:09] [129/134] George R. Wodicka
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3004
+[2025-11-01 21:28:09] [130/134] Peide "Peter" Ye
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3198
+[2025-11-01 21:28:09] [131/134] Stanislaw H. Zak
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3272
+[2025-11-01 21:28:09] [132/134] Fengqing Maggie Zhu
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=117183
+[2025-11-01 21:28:09] [133/134] Carla Zoltowski
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=2874
+[2025-11-01 21:28:09] [134/134] Michael D. Zoltowski
+[2025-11-01 21:28:09]     Profile URL: https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3159
+[2025-11-01 21:28:09] --- Scrape complete. Successfully extracted 134 faculty entries ---
+[2025-11-01 21:28:09] Data saved to faculty_data.json
+[2025-11-01 21:28:09] ============================================================
+[2025-11-01 21:28:09] FACULTY SCRAPER - STEP 2: Enriching with Profile Details
+[2025-11-01 21:28:09] ============================================================
+[2025-11-01 21:28:09] [1/134] Scraping profile for: Hadiseh Alaeian
+[2025-11-01 21:28:09]     Webpage: https://engineering.purdue.edu/qnp
+[2025-11-01 21:28:09]     Research: Hybrid, scalable, and integrated photonic quantum technologies and theoretical and experimental quan...
+[2025-11-01 21:28:10] [2/134] Scraping profile for: Muhammad Ashraful Alam
+[2025-11-01 21:28:10]     Webpage: https://engineering.purdue.edu/~alam/
+[2025-11-01 21:28:10]     Research: Performance and Reliability Physics of transistors, biosensors, solar cells to address fundamental c...
+[2025-11-01 21:28:10] [3/134] Scraping profile for: Dionysios Aliprantis
+[2025-11-01 21:28:11]     Webpage: https://engineering.purdue.edu/~dionysis/
+[2025-11-01 21:28:11]     Research: electric machines and drives, power systems, integration of renewable energy sources, electric trans...
+[2025-11-01 21:28:11] [4/134] Scraping profile for: Jan P. Allebach
+[2025-11-01 21:28:11]     Webpage: Not found
+[2025-11-01 21:28:11]     Research: Electronic imaging systems, image capture and rendering, color image processing, image quality, docu...
+[2025-11-01 21:28:12] [5/134] Scraping profile for: Joerg Appenzeller
+[2025-11-01 21:28:12]     Webpage: http://www.purdue.edu/discoverypark/nanotechnology/membership/Appenzeller/index.html
+[2025-11-01 21:28:12]     Research: Device and transport physics of low-dimensional systems, experimental verification of novel device c...
+[2025-11-01 21:28:13] [6/134] Scraping profile for: Santokh Badesha
+[2025-11-01 21:28:13]     Webpage: Not found
+[2025-11-01 21:28:13]     Research: Image generation and processing, Intellectual property generation and management, corporate partners...
+[2025-11-01 21:28:13] [7/134] Scraping profile for: Saurabh Bagchi (area chair)
+[2025-11-01 21:28:13]     Webpage: https://bagchi.github.io/
+[2025-11-01 21:28:13]     Research: Dependable distributed systems, secure autonomy, embedded wireless networks, predictable machine lea...
+[2025-11-01 21:28:14] [8/134] Scraping profile for: Mark R. Bell
+[2025-11-01 21:28:14]     Webpage: https://engineering.purdue.edu/~mrb/
+[2025-11-01 21:28:14]     Research: Information theory, communication theory and systems, radar systems and signal processing, signal th...
+[2025-11-01 21:28:15] [9/134] Scraping profile for: Peter Bermel (area chair)
+[2025-11-01 21:28:15]     Webpage: http://web.ics.purdue.edu/~pbermel/
+[2025-11-01 21:28:15]     Research: Applications of nanophotonics to microelectronics, photovoltaics, thermophotovoltaics, and thermal p...
+[2025-11-01 21:28:15] [10/134] Scraping profile for: Sunil A. Bhave
+[2025-11-01 21:28:16]     Webpage: http://engineering.purdue.edu/oxidemems/
+[2025-11-01 21:28:16]     Research: MEMS
+[2025-11-01 21:28:16] [11/134] Scraping profile for: Alexandra Boltasseva
+[2025-11-01 21:28:16]     Webpage: https://engineering.purdue.edu/~aeb/
+[2025-11-01 21:28:16]     Research: Nanophotonics, quantum photonics, machine learning, nanofabrication, plasmonics, metamaterials, inte...
+[2025-11-01 21:28:17] [12/134] Scraping profile for: Charles A. Bouman
+[2025-11-01 21:28:17]     Webpage: https://engineering.purdue.edu/~bouman/
+[2025-11-01 21:28:17]     Research: Image processing, statistical image modeling, pattern recognition, image printing and display, tomog...
+[2025-11-01 21:28:18] [13/134] Scraping profile for: Mireille "Mimi" Boutin
+[2025-11-01 21:28:18]     Webpage: http://www.ece.purdue.edu/~mboutin
+[2025-11-01 21:28:18]     Research: Computer vision and image processing, automatic language translation, mobile device applications, in...
+[2025-11-01 21:28:18] [14/134] Scraping profile for: Christopher Brinton
+[2025-11-01 21:28:19]     Webpage: http://www.cbrinton.net/
+[2025-11-01 21:28:19]     Research: Network optimization, machine learning, edge and fog computing, signal processing, wireless networks...
+[2025-11-01 21:28:19] [15/134] Scraping profile for: Aaron Brovont
+[2025-11-01 21:28:19]     Webpage: Not found
+[2025-11-01 21:28:19]     Research: Not found
+[2025-11-01 21:28:20] [16/134] Scraping profile for: Stanley Chan (area chair)
+[2025-11-01 21:28:20]     Webpage: https://engineering.purdue.edu/ChanGroup/
+[2025-11-01 21:28:20]     Research: image restoration, computational photography, photon limited imaging, statistical signal processing
+[2025-11-01 21:28:20] [17/134] Scraping profile for: Arnold Chung-Ye Chen
+[2025-11-01 21:28:21]     Webpage: Not found
+[2025-11-01 21:28:21]     Research: Entrepreneurship and semiconductor manufacturing
+[2025-11-01 21:28:21] [18/134] Scraping profile for: Xiaoqi Danny Chen
+[2025-11-01 21:28:21]     Webpage: Not found
+[2025-11-01 21:28:21]     Research: Algorithm design for high-speed programmable network switches and SmartNICs, to improve network perf...
+[2025-11-01 21:28:22] [19/134] Scraping profile for: Yaobin Chen
+[2025-11-01 21:28:22]     Webpage: https://engineering.purdue.edu/TASI
+[2025-11-01 21:28:22]     Research: Intelligent transportation systems, automated vehicles, EV and HEV, intelligent controls and robotic...
+[2025-11-01 21:28:23] [20/134] Scraping profile for: Zhihong Chen
+[2025-11-01 21:28:23]     Webpage: http://web.ics.purdue.edu/~chen658/
+[2025-11-01 21:28:23]     Research: Exploration of physical properties of nano-materials; control and manipulation of material propertie...
+[2025-11-01 21:28:23] [21/134] Scraping profile for: Weng C. Chew
+[2025-11-01 21:28:24]     Webpage: https://engineering.purdue.edu/wcchew/
+[2025-11-01 21:28:24]     Research: Electromagnetics, fast and efficient computational algorithms for solving electromagnetic scattering...
+[2025-11-01 21:28:24] [22/134] Scraping profile for: Mung Chiang
+[2025-11-01 21:28:24]     Webpage: Not found
+[2025-11-01 21:28:24]     Research: Optimization of networks, network utility maximization, network function optimization, Fog networkin...
+[2025-11-01 21:28:25] [23/134] Scraping profile for: Mary Comer
+[2025-11-01 21:28:25]     Webpage: Not found
+[2025-11-01 21:28:25]     Research: Video compression, scalable video coding, medical imaging, image and video processing
+[2025-11-01 21:28:25] [24/134] Scraping profile for: Meng Cui
+[2025-11-01 21:28:26]     Webpage: https://mengcuilab.github.io/
+[2025-11-01 21:28:26]     Research: Neurophotonics, In vivo imaging, High-throughput and high-quality imaging, Drug discovery, Wavefront...
+[2025-11-01 21:28:26] [25/134] Scraping profile for: Keerthi Priya Dasala
+[2025-11-01 21:28:26]     Webpage: Not found
+[2025-11-01 21:28:26]     Research: Not found
+[2025-11-01 21:28:27] [26/134] Scraping profile for: Supriyo Datta
+[2025-11-01 21:28:27]     Webpage: https://nanohub.org/groups/supriyodatta
+[2025-11-01 21:28:27]     Research: Spin electronics, nanoscale energy conversion, molecular electronics and mesoscopic superconductivit...
+[2025-11-01 21:28:28] [27/134] Scraping profile for: James Davis
+[2025-11-01 21:28:28]     Webpage: https://davisjam.github.io/
+[2025-11-01 21:28:28]     Research: I study the engineering of computing systems, writ broad. My primary interests are in software corre...
+[2025-11-01 21:28:28] [28/134] Scraping profile for: Edward J. Delp
+[2025-11-01 21:28:29]     Webpage: https://engineering.purdue.edu/~ace/
+[2025-11-01 21:28:29]     Research: Image processing, image and video compression, information security, multimedia systems, medical ima...
+[2025-11-01 21:28:29] [29/134] Scraping profile for: Rosa Diaz Rivas
+[2025-11-01 21:28:29]     Webpage: Not found
+[2025-11-01 21:28:29]     Research: Not found
+[2025-11-01 21:28:30] [30/134] Scraping profile for: Yi Ding
+[2025-11-01 21:28:30]     Webpage: https://y-ding.github.io/
+[2025-11-01 21:28:30]     Research: AI/ML Systems, Sustainable Computing, Computer Systems, Computer Architecture, Machine Learning, Hea...
+[2025-11-01 21:28:31] [31/134] Scraping profile for: Shengwang Du
+[2025-11-01 21:28:31]     Webpage: https://engineering.purdue.edu/QuantumOptics
+[2025-11-01 21:28:31]     Research: Atomic, Molecular, and Optical (AMO) Physics, Quantum Optics, Quantum Networks, Quantum Computing, O...
+[2025-11-01 21:28:31] [32/134] Scraping profile for: Daniel S. Elliott
+[2025-11-01 21:28:32]     Webpage: https://engineering.purdue.edu/ElliottLab
+[2025-11-01 21:28:32]     Research: Nonlinear optics, multiphoton processes, photoionization, competition between optical processes, coh...
+[2025-11-01 21:28:32] [33/134] Scraping profile for: Steve France
+[2025-11-01 21:28:33]     Webpage: Not found
+[2025-11-01 21:28:33]     Research: Software engineering practices, processes and management; quality assurance; system design and integ...
+[2025-11-01 21:28:33] [34/134] Scraping profile for: Jing Gao
+[2025-11-01 21:28:33]     Webpage: Not found
+[2025-11-01 21:28:33]     Research: Data and information analysis with a focus on data mining. In particular, I am interested in informa...
+[2025-11-01 21:28:34] [35/134] Scraping profile for: Arif Ghafoor
+[2025-11-01 21:28:34]     Webpage: https://engineering.purdue.edu/~dmultlab/
+[2025-11-01 21:28:34]     Research: Multimedia systems, databases, distributed computing systems, broadband multimedia networking
+[2025-11-01 21:28:35] [36/134] Scraping profile for: Mahsa Ghasemi
+[2025-11-01 21:28:35]     Webpage: https://mahsaghasemi.github.io/
+[2025-11-01 21:28:35]     Research: Task-Oriented Knowledge Acquisition and Reasoning; Online Learning and Control; Human-Robot Interact...
+[2025-11-01 21:28:35] [37/134] Scraping profile for: Zahra Ghodsi
+[2025-11-01 21:28:36]     Webpage: Not found
+[2025-11-01 21:28:36]     Research: Trustworthy machine learning, applied cryptography
+[2025-11-01 21:28:36] [38/134] Scraping profile for: Luis Gomez
+[2025-11-01 21:28:36]     Webpage: Not found
+[2025-11-01 21:28:36]     Research: Electromagnetics, computational analysis, design, and uncertainty quantification of electromagnetic ...
+[2025-11-01 21:28:37] [39/134] Scraping profile for: Qi Guo
+[2025-11-01 21:28:37]     Webpage: http://qiguo.org/
+[2025-11-01 21:28:37]     Research: Computational imaging, computer vision, machine learning, optics
+[2025-11-01 21:28:38] [40/134] Scraping profile for: Sumeet Gupta
+[2025-11-01 21:28:38]     Webpage: Not found
+[2025-11-01 21:28:38]     Research: Device-circuit co-design in emerging nanotechnologies for Boolean and non-Boolean computing, spintro...
+[2025-11-01 21:28:38] [41/134] Scraping profile for: Vijay Gupta
+[2025-11-01 21:28:39]     Webpage: https://engineering.purdue.edu/Vijay-Gupta
+[2025-11-01 21:28:39]     Research: Intersection of control theory and machine learning,  Distributed estimation and decision making, Cy...
+[2025-11-01 21:28:39] [42/134] Scraping profile for: Abolfazl Hashemi
+[2025-11-01 21:28:39]     Webpage: https://abolfazlh.github.io/
+[2025-11-01 21:28:39]     Research: Large-Scale Optimization for AI and ML, Learning at the Edge, and Decision-Making under Uncertainty.
+[2025-11-01 21:28:40] [43/134] Scraping profile for: Jianghai Hu
+[2025-11-01 21:28:40]     Webpage: https://engineering.purdue.edu/~jianghai/
+[2025-11-01 21:28:40]     Research: Hybrid systems; multi-agent systems; control of uncertain systems; control applications (e.g. in sen...
+[2025-11-01 21:28:41] [44/134] Scraping profile for: Y. Charlie Hu
+[2025-11-01 21:28:41]     Webpage: http://www.ece.purdue.edu/~ychu/
+[2025-11-01 21:28:41]     Research: Distributed systems, operating systems, networking, parallel computing
+[2025-11-01 21:28:42] [45/134] Scraping profile for: Muhammad Hussain
+[2025-11-01 21:28:42]     Webpage: http://mmhlabs.org
+[2025-11-01 21:28:42]     Research: mmh Lab (Device Research Engineering Applications and Manufacturing: DREAM) designs and develops fut...
+[2025-11-01 21:28:42] [46/134] Scraping profile for: David I. Inouye
+[2025-11-01 21:28:43]     Webpage: https://www.davidinouye.com/
+[2025-11-01 21:28:43]     Research: Trustworthy machine learning, robust ML, causal ML, explainability, fairness
+[2025-11-01 21:28:43] [47/134] Scraping profile for: Zubin Jacob
+[2025-11-01 21:28:43]     Webpage: http://www.electrodynamics.org/
+[2025-11-01 21:28:43]     Research: Quantum Vacuum, Quantum Photonics, Energy and Thermal
+[2025-11-01 21:28:44] [48/134] Scraping profile for: Leah H. Jamieson
+[2025-11-01 21:28:44]     Webpage: http://ece.www.ecn.purdue.edu/~lhj/
+[2025-11-01 21:28:44]     Research: Engineering education; engineering and society; public understanding of engineering; diversity, equi...
+[2025-11-01 21:28:45] [49/134] Scraping profile for: David B. Janes
+[2025-11-01 21:28:45]     Webpage: https://birck.research.purdue.edu/directory/david-janes/
+[2025-11-01 21:28:45]     Research: Nanoscale electronic devices, molecular/semiconductor devices, microwave devices and characterizatio...
+[2025-11-01 21:28:45] [50/134] Scraping profile for: Brent Jesiek
+[2025-11-01 21:28:46]     Webpage: http://web.ics.purdue.edu/~bjesiek/
+[2025-11-01 21:28:46]     Research: History and social studies of electrical engineering and computer engineering,<br>
 open source soft...
-[2025-11-01 19:13:56] [51/134] Scraping profile for: Dan Jiao
-[2025-11-01 19:13:56]     Webpage: http://www.ece.purdue.edu/~djiao
-[2025-11-01 19:13:56]     Research: Computational electromagnetics, applied electromagnetics, high frequency VLSI circuit design and ana...
-[2025-11-01 19:13:57] [52/134] Scraping profile for: Dr. Mark Johnson
-[2025-11-01 19:13:57]     Webpage: https://engineering.purdue.edu/Mark-Johnson
-[2025-11-01 19:13:57]     Research: Not found
-[2025-11-01 19:13:57] [53/134] Scraping profile for: Byunghoo Jung
-[2025-11-01 19:13:58]     Webpage: https://sites.google.com/site/jagpurdue/Home
-[2025-11-01 19:13:58]     Research: Circuits and systems for wireless sensing
-[2025-11-01 19:13:58] [54/134] Scraping profile for: Avinash C. Kak
-[2025-11-01 19:13:58]     Webpage: https://engineering.purdue.edu/kak/
-[2025-11-01 19:13:58]     Research: Sensor and Camera Networks, High-Level Programming Languages, Software Engineering, Computer and Net...
-[2025-11-01 19:13:59] [55/134] Scraping profile for: Vassilis Kekatos
-[2025-11-01 19:13:59]     Webpage: https://engineering.purdue.edu/~kekatos/
-[2025-11-01 19:13:59]     Research: Not found
-[2025-11-01 19:14:00] [56/134] Scraping profile for: Alexander Kildishev
-[2025-11-01 19:14:00]     Webpage: http://nanohub.org/members/6059
-[2025-11-01 19:14:00]     Research: Modeling of nanophotonics devices, optical metamaterials and transformation optics
-[2025-11-01 19:14:01] [57/134] Scraping profile for: Jongwook Kim
-[2025-11-01 19:14:01]     Webpage: Not found
-[2025-11-01 19:14:01]     Research: Software Refactoring, Design Patterns, Software Product Lines
-[2025-11-01 19:14:01] [58/134] Scraping profile for: Kwang Taik Kim
-[2025-11-01 19:14:01]     Webpage: https://kimkt.com/
-[2025-11-01 19:14:01]     Research: Wireless communication, open radio access network (RAN) and edge platform, edge computing, large-sca...
-[2025-11-01 19:14:02] [59/134] Scraping profile for: Younghyun Kim
-[2025-11-01 19:14:02]     Webpage: https://engineering.purdue.edu/neis
-[2025-11-01 19:14:02]     Research: Edge AI and ML, Efficient computing, Secure and privacy-preserving computing, Applied and physical A...
-[2025-11-01 19:14:03] [60/134] Scraping profile for: Gerhard Klimeck
-[2025-11-01 19:14:03]     Webpage: https://engineering.purdue.edu/gekcogrp/
-[2025-11-01 19:14:03]     Research: Nanoelectronic device analysis and synthesis, genetic algorithm based optimization, high performance...
-[2025-11-01 19:14:03] [61/134] Scraping profile for: Cheng-Kok Koh
-[2025-11-01 19:14:04]     Webpage: https://engineering.purdue.edu/Engr/People/ptProfile?resource_id=2895
-[2025-11-01 19:14:04]     Research: Computer Aided Design (CAD) for Very Large-Scale Integration (VLSI)
-[2025-11-01 19:14:04] [62/134] Scraping profile for: James V. Krogmeier
-[2025-11-01 19:14:05]     Webpage: https://engineering.purdue.edu/~jvk/
-[2025-11-01 19:14:05]     Research: Statistical signal processing for wireless communications and sensor networking applied to transport...
-[2025-11-01 19:14:05] [63/134] Scraping profile for: Tillmann Kubis
-[2025-11-01 19:14:05]     Webpage: https://www.group.tkubis.com/
-[2025-11-01 19:14:05]     Research: Transport modeling of charge, heat and spin on nanometer length scale in semiconductors, 2D material...
-[2025-11-01 19:14:06] [64/134] Scraping profile for: Milind Kulkarni
-[2025-11-01 19:14:06]     Webpage: https://engineering.purdue.edu/~milind/
-[2025-11-01 19:14:06]     Research: Programming languages, compilers, and runtime systems for accelerators, multicores, and other comple...
-[2025-11-01 19:14:07] [65/134] Scraping profile for: C. S. George Lee
-[2025-11-01 19:14:07]     Webpage: https://engineering.purdue.edu/artlab
-[2025-11-01 19:14:07]     Research: Robotics, Transfer Learning, Neuro-fuzzy Systems
-[2025-11-01 19:14:07] [66/134] Scraping profile for: Woongkul Matt Lee
-[2025-11-01 19:14:07]     Webpage: Not found
-[2025-11-01 19:14:07]     Research: High-performance motor drive, power electronics, electric machines, and distributed energy resources
-[2025-11-01 19:14:08] [67/134] Scraping profile for: James S. Lehnert
-[2025-11-01 19:14:08]     Webpage: http://www.ecn.purdue.edu/S3CRL/lehnert/
-[2025-11-01 19:14:08]     Research: Communication theory, information theory, spread spectrum signaling, packet radio systems, fading co...
-[2025-11-01 19:14:09] [68/134] Scraping profile for: Haitong Li
-[2025-11-01 19:14:09]     Webpage: https://engineering.purdue.edu/NanoX/
-[2025-11-01 19:14:09]     Research: Nanoelectronic devices, integrated circuits, nanotechnology-inspired AI hardware
-[2025-11-01 19:14:09] [69/134] Scraping profile for: Husheng Li
-[2025-11-01 19:14:10]     Webpage: Not found
-[2025-11-01 19:14:10]     Research: Wireless communications, statistical signal processing, cyber physical systems, autonomous and conne...
-[2025-11-01 19:14:10] [70/134] Scraping profile for: Junfei Li
-[2025-11-01 19:14:10]     Webpage: Not found
-[2025-11-01 19:14:10]     Research: Not found
-[2025-11-01 19:14:11] [71/134] Scraping profile for: Lingxi Li
-[2025-11-01 19:14:11]     Webpage: https://web.ics.purdue.edu/~li2317/
-[2025-11-01 19:14:11]     Research: Modeling, analysis, control, and optimization of complex systems, connected and automated vehicles, ...
-[2025-11-01 19:14:11] [72/134] Scraping profile for: Tongcang Li
-[2025-11-01 19:14:12]     Webpage: https://sites.google.com/site/litongcang/
-[2025-11-01 19:14:12]     Research: Quantum photonics, Quantum optomechanics, cold atoms, Brownian motion
-[2025-11-01 19:14:12] [73/134] Scraping profile for: Chaoyue Liu
-[2025-11-01 19:14:12]     Webpage: https://cliu212.github.io/
-[2025-11-01 19:14:12]     Research: Mathematical Foundation of deep learning, deep learning theory, optimization
-[2025-11-01 19:14:13] [74/134] Scraping profile for: David J. Love
-[2025-11-01 19:14:13]     Webpage: https://engineering.purdue.edu/~djlove/
-[2025-11-01 19:14:13]     Research: Communication theory, information theory, feedback in communication systems, multiple-input multiple...
-[2025-11-01 19:14:13] [75/134] Scraping profile for: Yung-Hsiang Lu
-[2025-11-01 19:14:14]     Webpage: http://www.ece.purdue.edu/~yunglu/index.html
-[2025-11-01 19:14:14]     Research: Mobile and cloud computing, energy-efficient computing, image and video processing
-[2025-11-01 19:14:14] [76/134] Scraping profile for: Joseph M. Lukens
-[2025-11-01 19:14:15]     Webpage: Not found
-[2025-11-01 19:14:15]     Research: Quantum information science, Photonics, Lightwave communications, Quantum networking, Bayesian infer...
-[2025-11-01 19:14:15] [77/134] Scraping profile for: Mark S. Lundstrom
-[2025-11-01 19:14:15]     Webpage: https://nanohub.org/groups/mark_lundstrom/
-[2025-11-01 19:14:15]     Research: Semiconductor device physics, change carrier transport, computational electronics, physics and limit...
-[2025-11-01 19:14:16] [78/134] Scraping profile for: Aravind Machiry
-[2025-11-01 19:14:16]     Webpage: Not found
-[2025-11-01 19:14:16]     Research: My primary research area is system and software security.   I lead Purdue Systems and Software Secur...
-[2025-11-01 19:14:16] [79/134] Scraping profile for: Joseph Makin
-[2025-11-01 19:14:17]     Webpage: https://engineering.purdue.edu/MakinLab
-[2025-11-01 19:14:17]     Research: Mathematical neuroscience and neural computation; brain-machine interfaces in humans and animals; ma...
-[2025-11-01 19:14:17] [80/134] Scraping profile for: Anuran Makur
-[2025-11-01 19:14:17]     Webpage: https://www.cs.purdue.edu/homes/amakur/
-[2025-11-01 19:14:17]     Research: Theory of machine learning, Information theory, Applied probability
-[2025-11-01 19:14:18] [81/134] Scraping profile for: Michael Manfra
-[2025-11-01 19:14:18]     Webpage: http://manfragroup.org/
-[2025-11-01 19:14:18]     Research: Non-Abelian phases in the fractional Quantum Hall regime, Engineering GaAs heterostructures for high...
-[2025-11-01 19:14:18] [82/134] Scraping profile for: Jason D. McKinney
-[2025-11-01 19:14:19]     Webpage: Not found
-[2025-11-01 19:14:19]     Research: Microwave photonics systems and applications including folding receivers, direction-finding, interfe...
-[2025-11-01 19:14:19] [83/134] Scraping profile for: Michael R. Melloch
-[2025-11-01 19:14:19]     Webpage: https://engineering.purdue.edu/people/michael.r.melloch.1/index_html
-[2025-11-01 19:14:19]     Research: Semiconductor physics, molecular beam epitaxy, heterostructures, superlattices, ultra-small devices
-[2025-11-01 19:14:20] [84/134] Scraping profile for: Saeed Mohammadi
-[2025-11-01 19:14:20]     Webpage: https://engineering.purdue.edu/SiVIC
-[2025-11-01 19:14:20]     Research: High-speed and low-power electronics, 3-D integration, nanotechnology,<br>
+[2025-11-01 21:28:46] [51/134] Scraping profile for: Dan Jiao
+[2025-11-01 21:28:46]     Webpage: http://www.ece.purdue.edu/~djiao
+[2025-11-01 21:28:46]     Research: Computational electromagnetics, applied electromagnetics, high frequency VLSI circuit design and ana...
+[2025-11-01 21:28:47] [52/134] Scraping profile for: Dr. Mark Johnson
+[2025-11-01 21:28:47]     Webpage: https://engineering.purdue.edu/Mark-Johnson
+[2025-11-01 21:28:47]     Research: Not found
+[2025-11-01 21:28:48] [53/134] Scraping profile for: Byunghoo Jung
+[2025-11-01 21:28:48]     Webpage: https://sites.google.com/site/jagpurdue/Home
+[2025-11-01 21:28:48]     Research: Circuits and systems for wireless sensing
+[2025-11-01 21:28:49] [54/134] Scraping profile for: Avinash C. Kak
+[2025-11-01 21:28:49]     Webpage: https://engineering.purdue.edu/kak/
+[2025-11-01 21:28:49]     Research: Sensor and Camera Networks, High-Level Programming Languages, Software Engineering, Computer and Net...
+[2025-11-01 21:28:49] [55/134] Scraping profile for: Vassilis Kekatos
+[2025-11-01 21:28:50]     Webpage: https://engineering.purdue.edu/~kekatos/
+[2025-11-01 21:28:50]     Research: Not found
+[2025-11-01 21:28:50] [56/134] Scraping profile for: Alexander Kildishev
+[2025-11-01 21:28:51]     Webpage: http://nanohub.org/members/6059
+[2025-11-01 21:28:51]     Research: Modeling of nanophotonics devices, optical metamaterials and transformation optics
+[2025-11-01 21:28:51] [57/134] Scraping profile for: Jongwook Kim
+[2025-11-01 21:28:51]     Webpage: Not found
+[2025-11-01 21:28:51]     Research: Software Refactoring, Design Patterns, Software Product Lines
+[2025-11-01 21:28:52] [58/134] Scraping profile for: Kwang Taik Kim
+[2025-11-01 21:28:52]     Webpage: https://kimkt.com/
+[2025-11-01 21:28:52]     Research: Wireless communication, open radio access network (RAN) and edge platform, edge computing, large-sca...
+[2025-11-01 21:28:53] [59/134] Scraping profile for: Younghyun Kim
+[2025-11-01 21:28:53]     Webpage: https://engineering.purdue.edu/neis
+[2025-11-01 21:28:53]     Research: Edge AI and ML, Efficient computing, Secure and privacy-preserving computing, Applied and physical A...
+[2025-11-01 21:28:53] [60/134] Scraping profile for: Gerhard Klimeck
+[2025-11-01 21:28:54]     Webpage: https://engineering.purdue.edu/gekcogrp/
+[2025-11-01 21:28:54]     Research: Nanoelectronic device analysis and synthesis, genetic algorithm based optimization, high performance...
+[2025-11-01 21:28:54] [61/134] Scraping profile for: Cheng-Kok Koh
+[2025-11-01 21:28:55]     Webpage: https://engineering.purdue.edu/Engr/People/ptProfile?resource_id=2895
+[2025-11-01 21:28:55]     Research: Computer Aided Design (CAD) for Very Large-Scale Integration (VLSI)
+[2025-11-01 21:28:55] [62/134] Scraping profile for: James V. Krogmeier
+[2025-11-01 21:28:55]     Webpage: https://engineering.purdue.edu/~jvk/
+[2025-11-01 21:28:55]     Research: Statistical signal processing for wireless communications and sensor networking applied to transport...
+[2025-11-01 21:28:56] [63/134] Scraping profile for: Tillmann Kubis
+[2025-11-01 21:28:56]     Webpage: https://www.group.tkubis.com/
+[2025-11-01 21:28:56]     Research: Transport modeling of charge, heat and spin on nanometer length scale in semiconductors, 2D material...
+[2025-11-01 21:28:57] [64/134] Scraping profile for: Milind Kulkarni
+[2025-11-01 21:28:58]     Webpage: https://engineering.purdue.edu/~milind/
+[2025-11-01 21:28:58]     Research: Programming languages, compilers, and runtime systems for accelerators, multicores, and other comple...
+[2025-11-01 21:28:58] [65/134] Scraping profile for: C. S. George Lee
+[2025-11-01 21:28:58]     Webpage: https://engineering.purdue.edu/artlab
+[2025-11-01 21:28:58]     Research: Robotics, Transfer Learning, Neuro-fuzzy Systems
+[2025-11-01 21:28:59] [66/134] Scraping profile for: Woongkul Matt Lee
+[2025-11-01 21:28:59]     Webpage: Not found
+[2025-11-01 21:28:59]     Research: High-performance motor drive, power electronics, electric machines, and distributed energy resources
+[2025-11-01 21:29:00] [67/134] Scraping profile for: James S. Lehnert
+[2025-11-01 21:29:00]     Webpage: http://www.ecn.purdue.edu/S3CRL/lehnert/
+[2025-11-01 21:29:00]     Research: Communication theory, information theory, spread spectrum signaling, packet radio systems, fading co...
+[2025-11-01 21:29:01] [68/134] Scraping profile for: Haitong Li
+[2025-11-01 21:29:01]     Webpage: https://engineering.purdue.edu/NanoX/
+[2025-11-01 21:29:01]     Research: Nanoelectronic devices, integrated circuits, nanotechnology-inspired AI hardware
+[2025-11-01 21:29:02] [69/134] Scraping profile for: Husheng Li
+[2025-11-01 21:29:02]     Webpage: Not found
+[2025-11-01 21:29:02]     Research: Wireless communications, statistical signal processing, cyber physical systems, autonomous and conne...
+[2025-11-01 21:29:02] [70/134] Scraping profile for: Junfei Li
+[2025-11-01 21:29:03]     Webpage: Not found
+[2025-11-01 21:29:03]     Research: Not found
+[2025-11-01 21:29:03] [71/134] Scraping profile for: Lingxi Li
+[2025-11-01 21:29:03]     Webpage: https://web.ics.purdue.edu/~li2317/
+[2025-11-01 21:29:03]     Research: Modeling, analysis, control, and optimization of complex systems, connected and automated vehicles, ...
+[2025-11-01 21:29:04] [72/134] Scraping profile for: Tongcang Li
+[2025-11-01 21:29:04]     Webpage: https://sites.google.com/site/litongcang/
+[2025-11-01 21:29:04]     Research: Quantum photonics, Quantum optomechanics, cold atoms, Brownian motion
+[2025-11-01 21:29:04] [73/134] Scraping profile for: Chaoyue Liu
+[2025-11-01 21:29:05]     Webpage: https://cliu212.github.io/
+[2025-11-01 21:29:05]     Research: Mathematical Foundation of deep learning, deep learning theory, optimization
+[2025-11-01 21:29:05] [74/134] Scraping profile for: David J. Love
+[2025-11-01 21:29:05]     Webpage: https://engineering.purdue.edu/~djlove/
+[2025-11-01 21:29:05]     Research: Communication theory, information theory, feedback in communication systems, multiple-input multiple...
+[2025-11-01 21:29:06] [75/134] Scraping profile for: Yung-Hsiang Lu
+[2025-11-01 21:29:06]     Webpage: http://www.ece.purdue.edu/~yunglu/index.html
+[2025-11-01 21:29:06]     Research: Mobile and cloud computing, energy-efficient computing, image and video processing
+[2025-11-01 21:29:06] [76/134] Scraping profile for: Joseph M. Lukens
+[2025-11-01 21:29:07]     Webpage: Not found
+[2025-11-01 21:29:07]     Research: Quantum information science, Photonics, Lightwave communications, Quantum networking, Bayesian infer...
+[2025-11-01 21:29:07] [77/134] Scraping profile for: Mark S. Lundstrom
+[2025-11-01 21:29:07]     Webpage: https://nanohub.org/groups/mark_lundstrom/
+[2025-11-01 21:29:07]     Research: Semiconductor device physics, change carrier transport, computational electronics, physics and limit...
+[2025-11-01 21:29:08] [78/134] Scraping profile for: Aravind Machiry
+[2025-11-01 21:29:08]     Webpage: Not found
+[2025-11-01 21:29:08]     Research: My primary research area is system and software security.   I lead Purdue Systems and Software Secur...
+[2025-11-01 21:29:09] [79/134] Scraping profile for: Joseph Makin
+[2025-11-01 21:29:09]     Webpage: https://engineering.purdue.edu/MakinLab
+[2025-11-01 21:29:09]     Research: Mathematical neuroscience and neural computation; brain-machine interfaces in humans and animals; ma...
+[2025-11-01 21:29:09] [80/134] Scraping profile for: Anuran Makur
+[2025-11-01 21:29:09]     Webpage: https://www.cs.purdue.edu/homes/amakur/
+[2025-11-01 21:29:09]     Research: Theory of machine learning, Information theory, Applied probability
+[2025-11-01 21:29:10] [81/134] Scraping profile for: Michael Manfra
+[2025-11-01 21:29:10]     Webpage: http://manfragroup.org/
+[2025-11-01 21:29:10]     Research: Non-Abelian phases in the fractional Quantum Hall regime, Engineering GaAs heterostructures for high...
+[2025-11-01 21:29:11] [82/134] Scraping profile for: Jason D. McKinney
+[2025-11-01 21:29:11]     Webpage: Not found
+[2025-11-01 21:29:11]     Research: Microwave photonics systems and applications including folding receivers, direction-finding, interfe...
+[2025-11-01 21:29:12] [83/134] Scraping profile for: Michael R. Melloch
+[2025-11-01 21:29:12]     Webpage: https://engineering.purdue.edu/people/michael.r.melloch.1/index_html
+[2025-11-01 21:29:12]     Research: Semiconductor physics, molecular beam epitaxy, heterostructures, superlattices, ultra-small devices
+[2025-11-01 21:29:12] [84/134] Scraping profile for: Saeed Mohammadi
+[2025-11-01 21:29:12]     Webpage: https://engineering.purdue.edu/SiVIC
+[2025-11-01 21:29:12]     Research: High-speed and low-power electronics, 3-D integration, nanotechnology,<br>
  novel semiconductor dev...
-[2025-11-01 19:14:21] [85/134] Scraping profile for: Dallas Morisette
-[2025-11-01 19:14:21]     Webpage: https://engineering.purdue.edu/wbgweb/
-[2025-11-01 19:14:21]     Research: Solid state device physics, MOS interface physics, wide bandgap materials and devices, power semicon...
-[2025-11-01 19:14:21] [86/134] Scraping profile for: Evgenii Narimanov
-[2025-11-01 19:14:21]     Webpage: Not found
-[2025-11-01 19:14:21]     Research: Negative Index (Meta) materials, Optical systems with ray-chaotic dynamics, Information-theoretical ...
-[2025-11-01 19:14:22] [87/134] Scraping profile for: Philip E. Paré
-[2025-11-01 19:14:22]     Webpage: http://sites.google.com/view/philpare
-[2025-11-01 19:14:22]     Research: Mathematical modeling and control of dynamic networked systems, e.g. epidemiological, biological, ec...
-[2025-11-01 19:14:23] [88/134] Scraping profile for: Brooke Parks
-[2025-11-01 19:14:23]     Webpage: Not found
-[2025-11-01 19:14:23]     Research: Not found
-[2025-11-01 19:14:23] [89/134] Scraping profile for: Steven D. Pekarek
-[2025-11-01 19:14:24]     Webpage: Not found
-[2025-11-01 19:14:24]     Research: Analysis, design, and control of electric machines, power electronics, and power electronic based sy...
-[2025-11-01 19:14:24] [90/134] Scraping profile for: Dimitrios Peroulis
-[2025-11-01 19:14:25]     Webpage: http://www.linkedin.com/in/dimitrios-peroulis
-[2025-11-01 19:14:25]     Research: High-frequency reconfigurable electronics and antennas, photonic time crystals, microwave heating fo...
-[2025-11-01 19:14:25] [91/134] Scraping profile for: Irith Pomeranz
-[2025-11-01 19:14:25]     Webpage: http://www.ece.purdue.edu/~pomeranz
-[2025-11-01 19:14:25]     Research: Test generation, design-for-testability, built-in self-test and diagnosis of integrated circuits.
-[2025-11-01 19:14:26] [92/134] Scraping profile for: Minghao Qi
-[2025-11-01 19:14:26]     Webpage: Not found
-[2025-11-01 19:14:26]     Research: Nanotechnology, especially 3D nanofabrication and low-cost nanolithography; micro and nanophotonics,...
-[2025-11-01 19:14:27] [93/134] Scraping profile for: Junjie Qin
-[2025-11-01 19:14:27]     Webpage: https://engineering.purdue.edu/people/junjie.qin.1
-[2025-11-01 19:14:27]     Research: Control, optimization, market design, and data analytics applied to power systems and the energy-tra...
-[2025-11-01 19:14:27] [94/134] Scraping profile for: Qiang Qiu
-[2025-11-01 19:14:28]     Webpage: https://engineering.purdue.edu/~qqiu
-[2025-11-01 19:14:28]     Research: Computer vision and machine learning, specifically on deep learning, image understanding, representa...
-[2025-11-01 19:14:28] [95/134] Scraping profile for: Xiaokang Qiu
-[2025-11-01 19:14:28]     Webpage: https://engineering.purdue.edu/~xqiu/
-[2025-11-01 19:14:28]     Research: Not found
-[2025-11-01 19:14:29] [96/134] Scraping profile for: Vijay Raghunathan
-[2025-11-01 19:14:30]     Webpage: https://engineering.purdue.edu/~vr
-[2025-11-01 19:14:30]     Research: Hardware and software architectures for embedded computing systems,<br>
+[2025-11-01 21:29:13] [85/134] Scraping profile for: Dallas Morisette
+[2025-11-01 21:29:13]     Webpage: https://engineering.purdue.edu/wbgweb/
+[2025-11-01 21:29:13]     Research: Solid state device physics, MOS interface physics, wide bandgap materials and devices, power semicon...
+[2025-11-01 21:29:14] [86/134] Scraping profile for: Evgenii Narimanov
+[2025-11-01 21:29:14]     Webpage: Not found
+[2025-11-01 21:29:14]     Research: Negative Index (Meta) materials, Optical systems with ray-chaotic dynamics, Information-theoretical ...
+[2025-11-01 21:29:14] [87/134] Scraping profile for: Philip E. Paré
+[2025-11-01 21:29:15]     Webpage: http://sites.google.com/view/philpare
+[2025-11-01 21:29:15]     Research: Mathematical modeling and control of dynamic networked systems, e.g. epidemiological, biological, ec...
+[2025-11-01 21:29:15] [88/134] Scraping profile for: Brooke Parks
+[2025-11-01 21:29:15]     Webpage: Not found
+[2025-11-01 21:29:15]     Research: Not found
+[2025-11-01 21:29:16] [89/134] Scraping profile for: Steven D. Pekarek
+[2025-11-01 21:29:16]     Webpage: Not found
+[2025-11-01 21:29:16]     Research: Analysis, design, and control of electric machines, power electronics, and power electronic based sy...
+[2025-11-01 21:29:16] [90/134] Scraping profile for: Dimitrios Peroulis
+[2025-11-01 21:29:17]     Webpage: http://www.linkedin.com/in/dimitrios-peroulis
+[2025-11-01 21:29:17]     Research: High-frequency reconfigurable electronics and antennas, photonic time crystals, microwave heating fo...
+[2025-11-01 21:29:17] [91/134] Scraping profile for: Irith Pomeranz
+[2025-11-01 21:29:17]     Webpage: http://www.ece.purdue.edu/~pomeranz
+[2025-11-01 21:29:17]     Research: Test generation, design-for-testability, built-in self-test and diagnosis of integrated circuits.
+[2025-11-01 21:29:18] [92/134] Scraping profile for: Minghao Qi
+[2025-11-01 21:29:18]     Webpage: Not found
+[2025-11-01 21:29:18]     Research: Nanotechnology, especially 3D nanofabrication and low-cost nanolithography; micro and nanophotonics,...
+[2025-11-01 21:29:18] [93/134] Scraping profile for: Junjie Qin
+[2025-11-01 21:29:19]     Webpage: https://engineering.purdue.edu/people/junjie.qin.1
+[2025-11-01 21:29:19]     Research: Control, optimization, market design, and data analytics applied to power systems and the energy-tra...
+[2025-11-01 21:29:19] [94/134] Scraping profile for: Qiang Qiu
+[2025-11-01 21:29:19]     Webpage: https://engineering.purdue.edu/~qqiu
+[2025-11-01 21:29:19]     Research: Computer vision and machine learning, specifically on deep learning, image understanding, representa...
+[2025-11-01 21:29:20] [95/134] Scraping profile for: Xiaokang Qiu
+[2025-11-01 21:29:21]     Webpage: https://engineering.purdue.edu/~xqiu/
+[2025-11-01 21:29:21]     Research: Not found
+[2025-11-01 21:29:21] [96/134] Scraping profile for: Vijay Raghunathan
+[2025-11-01 21:29:21]     Webpage: https://engineering.purdue.edu/~vr
+[2025-11-01 21:29:21]     Research: Hardware and software architectures for embedded computing systems,<br>
 system-on-chip design, and ...
-[2025-11-01 19:14:30] [97/134] Scraping profile for: Anand Raghunathan (area chair)
-[2025-11-01 19:14:30]     Webpage: https://engineering.purdue.edu/~araghu
-[2025-11-01 19:14:30]     Research: System-on-chip (SoC) architecture and design methodologies,<br>
+[2025-11-01 21:29:22] [97/134] Scraping profile for: Anand Raghunathan (area chair)
+[2025-11-01 21:29:22]     Webpage: https://engineering.purdue.edu/~araghu
+[2025-11-01 21:29:22]     Research: System-on-chip (SoC) architecture and design methodologies,<br>
 Application-specific and domain-spe...
-[2025-11-01 19:14:31] [98/134] Scraping profile for: Karthik Ramani
-[2025-11-01 19:14:31]     Webpage: https://engineering.purdue.edu/ME/People/ptProfile?id=12331
-[2025-11-01 19:14:31]     Research: Not found
-[2025-11-01 19:14:32] [99/134] Scraping profile for: Sanjay Rao
-[2025-11-01 19:14:32]     Webpage: http://www.ece.purdue.edu/~sanjay
-[2025-11-01 19:14:32]     Research: Computer Networking, Internet Architecture and Protocols, Software-Defined Networking, Cloud Computi...
-[2025-11-01 19:14:32] [100/134] Scraping profile for: Amy Reibman
-[2025-11-01 19:14:33]     Webpage: https://engineering.purdue.edu/~reibman/
-[2025-11-01 19:14:33]     Research: Image and video quality estimation, video transport over networks, video analytics
-[2025-11-01 19:14:33] [101/134] Scraping profile for: Timothy Rogers
-[2025-11-01 19:14:33]     Webpage: https://engineering.purdue.edu/tgrogers/
-[2025-11-01 19:14:33]     Research: Computer architecture, hardware accelerators, software systems, compilers and hardware/software co-d...
-[2025-11-01 19:14:34] [102/134] Scraping profile for: Thomas Roth
-[2025-11-01 19:14:34]     Webpage: https://engineering.purdue.edu/CQEM
-[2025-11-01 19:14:34]     Research: Modeling of classical and quantum electromagnetic systems, multiscale and multiphysics modeling, app...
-[2025-11-01 19:14:35] [103/134] Scraping profile for: Kaushik Roy
-[2025-11-01 19:14:35]     Webpage: https://engineering.purdue.edu/NRL/
-[2025-11-01 19:14:35]     Research: AI algorithms and hardware, neuromorphic computing, low-power electronics, neuro-mimetic devices, de...
-[2025-11-01 19:14:35] [104/134] Scraping profile for: Gesualdo Scutari
-[2025-11-01 19:14:36]     Webpage: https://engineering.purdue.edu/~gscutari/
-[2025-11-01 19:14:36]     Research: Decentralized optimization and information processing, statistical machine learning algorithms, math...
-[2025-11-01 19:14:36] [105/134] Scraping profile for: Shreyas Sen
-[2025-11-01 19:14:36]     Webpage: https://engineering.purdue.edu/~shreyas/SparcLab/
-[2025-11-01 19:14:36]     Research: Sensing and Communication Circuits/Systems, Energy-harvested Sensor nodes for Internet of Things (Io...
-[2025-11-01 19:14:37] [106/134] Scraping profile for: Ali Shakouri
-[2025-11-01 19:14:37]     Webpage: https://nanohub.org/groups/quest/
-[2025-11-01 19:14:37]     Research: Quantum electronics, nano and microscale heat and current transport in semiconductor devices, thermo...
-[2025-11-01 19:14:38] [107/134] Scraping profile for: Vladimir M. Shalaev
-[2025-11-01 19:14:38]     Webpage: http://www.ece.purdue.edu/~shalaev/
-[2025-11-01 19:14:38]     Research: Optical properties of nanostructured materials, nonlinear optics and spectroscopy, mesoscopic physic...
-[2025-11-01 19:14:38] [108/134] Scraping profile for: Behzad Sharif
-[2025-11-01 19:14:39]     Webpage: Not found
-[2025-11-01 19:14:39]     Research: Development and clinical validation of innovative MRI technologies for quantitative imaging of the d...
-[2025-11-01 19:14:39] [109/134] Scraping profile for: Vishal Shrivastav
-[2025-11-01 19:14:39]     Webpage: https://engineering.purdue.edu/~vshriva/
-[2025-11-01 19:14:39]     Research: Computer Networking and Networked Systems.
-[2025-11-01 19:14:40] [110/134] Scraping profile for: Jeffrey M. Siskind
-[2025-11-01 19:14:40]     Webpage: http://www.ece.purdue.edu/~qobi
-[2025-11-01 19:14:40]     Research: Artificial intelligence, cognitive science, computational linguistics, machine vision, programming l...
-[2025-11-01 19:14:40] [111/134] Scraping profile for: Lu Su
-[2025-11-01 19:14:41]     Webpage: https://engineering.purdue.edu/~lusu/
-[2025-11-01 19:14:41]     Research: Internet of things, cyber-physical systems, wireless, mobile, and crowd sensing systems, big data an...
-[2025-11-01 19:14:41] [112/134] Scraping profile for: Scott D. Sudhoff
-[2025-11-01 19:14:42]     Webpage: http://cobweb.ecn.purdue.edu/~sudhoff/
-[2025-11-01 19:14:42]     Research: Power electronics, electromechanical devices, power electronics based  power distribution and propul...
-[2025-11-01 19:14:42] [113/134] Scraping profile for: Shreyas Sundaram (area chair)
-[2025-11-01 19:14:42]     Webpage: https://engineering.purdue.edu/~sundara2
-[2025-11-01 19:14:42]     Research: Network science, robustness and resilience of complex networks and systems, dynamics on networks, fa...
-[2025-11-01 19:14:43] [114/134] Scraping profile for: Hong Z. Tan
-[2025-11-01 19:14:43]     Webpage: http://cobweb.ecn.purdue.edu/~hongtan/
-[2025-11-01 19:14:43]     Research: Haptic interfaces, distributed contact sensing, Haptic rendering, psychophysics
-[2025-11-01 19:14:43] [115/134] Scraping profile for: Takashi Tanaka
-[2025-11-01 19:14:44]     Webpage: https://networked-control-systems-lab.github.io/
-[2025-11-01 19:14:44]     Research: Information theory in control, security and privacy in networked control systems, robust and stochas...
-[2025-11-01 19:14:44] [116/134] Scraping profile for: Mithuna S. Thottethodi
-[2025-11-01 19:14:44]     Webpage: http://www.ece.purdue.edu/~mithuna
-[2025-11-01 19:14:44]     Research: Computer Architecture, Interconnection Networks, Distributed Systems
-[2025-11-01 19:14:45] [117/134] Scraping profile for: Santiago Torres-Arias
-[2025-11-01 19:14:45]     Webpage: Not found
-[2025-11-01 19:14:45]     Research: Computer systems security, software supply chain security, and distributed system security. Applied ...
-[2025-11-01 19:14:46] [118/134] Scraping profile for: Vishrant Tripathi
-[2025-11-01 19:14:46]     Webpage: https://vishrantt.github.io/
-[2025-11-01 19:14:46]     Research: Modeling, analysis and design of communication networks, with emphasis on wireless and real-time net...
-[2025-11-01 19:14:46] [119/134] Scraping profile for: Pramey Upadhyaya (area chair)
-[2025-11-01 19:14:47]     Webpage: Not found
-[2025-11-01 19:14:47]     Research: magnetism, classical and quantum spintronics, next-generation information processing & bio-devices
-[2025-11-01 19:14:47] [120/134] Scraping profile for: T. N. Vijaykumar
-[2025-11-01 19:14:47]     Webpage: https://engineering.purdue.edu/~vijay/
-[2025-11-01 19:14:47]     Research: Computer architecture
-[2025-11-01 19:14:48] [121/134] Scraping profile for: Phillip Walter
-[2025-11-01 19:14:48]     Webpage: Not found
-[2025-11-01 19:14:48]     Research: Not found
-[2025-11-01 19:14:49] [122/134] Scraping profile for: Chih-Chun Wang
-[2025-11-01 19:14:49]     Webpage: https://engineering.purdue.edu/~chihw/
-[2025-11-01 19:14:49]     Research: Coding theory, network coding, analysis of iterative decoding, information theory and optimal decisi...
-[2025-11-01 19:14:49] [123/134] Scraping profile for: Haiyan Wang
-[2025-11-01 19:14:50]     Webpage: https://sites.google.com/site/haiyanwanggroup/home
-[2025-11-01 19:14:50]     Research: Prof. Wang specializes in the design and processing of functional nanocomposite thin films for micro...
-[2025-11-01 19:14:50] [124/134] Scraping profile for: Jingbo Wang
-[2025-11-01 19:14:50]     Webpage: Not found
-[2025-11-01 19:14:50]     Research: Not found
-[2025-11-01 19:14:51] [125/134] Scraping profile for: Xiaoqian (Joy) Wang
-[2025-11-01 19:14:51]     Webpage: https://engineering.purdue.edu/~joywang/
-[2025-11-01 19:14:51]     Research: Not found
-[2025-11-01 19:14:52] [126/134] Scraping profile for: Kevin J. Webb
-[2025-11-01 19:14:52]     Webpage: https://engineering.purdue.edu/Kevin-Webb
-[2025-11-01 19:14:52]     Research: Biophotonics, imaging, nanophotonics, metamaterials, electromagnetics, and solid state devices
-[2025-11-01 19:14:52] [127/134] Scraping profile for: Dana Weinstein
-[2025-11-01 19:14:53]     Webpage: https://engineering.purdue.edu/hybridmems/
-[2025-11-01 19:14:53]     Research: RF MEMS, electromechanical resonators and transducers for wireless communication, signal processing,...
-[2025-11-01 19:14:53] [128/134] Scraping profile for: Jenna Wise DiVincenzo
-[2025-11-01 19:14:53]     Webpage: https://jennalwise.github.io/
-[2025-11-01 19:14:53]     Research: Software verification, formal methods, programming languages, software engineering
-[2025-11-01 19:14:54] [129/134] Scraping profile for: George R. Wodicka
-[2025-11-01 19:14:54]     Webpage: http://engineering.purdue.edu/BME/People/viewPersonById?resource_id=3004
-[2025-11-01 19:14:54]     Research: Biomedical acoustics, speech acoustics, acoustic modeling, biomedical signal processing, acoustic bi...
-[2025-11-01 19:14:55] [130/134] Scraping profile for: Peide "Peter" Ye
-[2025-11-01 19:14:55]     Webpage: http://www.ece.purdue.edu/~yep
-[2025-11-01 19:14:55]     Research: Semiconductor physics and devices, Nano-structures and nano-fabrications, Quantum/spin-transport, 2D...
-[2025-11-01 19:14:55] [131/134] Scraping profile for: Stanislaw H. Zak
-[2025-11-01 19:14:56]     Webpage: http://www.ece.purdue.edu/~zak/
-[2025-11-01 19:14:56]     Research: Control, optimization, nonlinear systems, neural networks, fuzzy logic control
-[2025-11-01 19:14:56] [132/134] Scraping profile for: Fengqing Maggie Zhu
-[2025-11-01 19:14:57]     Webpage: https://engineering.purdue.edu/~zhu0/
-[2025-11-01 19:14:57]     Research: Image processing, video compression, computer vision, and smart health
-[2025-11-01 19:14:57] [133/134] Scraping profile for: Carla Zoltowski
-[2025-11-01 19:14:57]     Webpage: Not found
-[2025-11-01 19:14:57]     Research: Not found
-[2025-11-01 19:14:58] [134/134] Scraping profile for: Michael D. Zoltowski
-[2025-11-01 19:14:58]     Webpage: http://www.ece.purdue.edu/~mikedz
-[2025-11-01 19:14:58]     Research: Wireless & mobile communication systems, smart antennas, space-time adaptive processing, multipath c...
-[2025-11-01 19:14:59] --- Profile enrichment complete ---
-[2025-11-01 19:14:59] Complete data saved to faculty_data_complete.json
-[2025-11-01 19:14:59] --- Starting data ingestion into database ---
-[2025-11-01 19:14:59] Processing: Hadiseh Alaeian
-[2025-11-01 19:14:59] Processing: Muhammad Ashraful Alam
-[2025-11-01 19:14:59] Processing: Dionysios Aliprantis
-[2025-11-01 19:14:59] Processing: Jan P. Allebach
-[2025-11-01 19:14:59] Processing: Joerg Appenzeller
-[2025-11-01 19:14:59] Processing: Santokh Badesha
-[2025-11-01 19:14:59] Processing: Saurabh Bagchi (area chair)
-[2025-11-01 19:14:59] Processing: Mark R. Bell
-[2025-11-01 19:14:59] Processing: Peter Bermel (area chair)
-[2025-11-01 19:14:59] Processing: Sunil A. Bhave
-[2025-11-01 19:14:59] Processing: Alexandra Boltasseva
-[2025-11-01 19:14:59] Processing: Charles A. Bouman
-[2025-11-01 19:14:59] Processing: Mireille "Mimi" Boutin
-[2025-11-01 19:14:59] Processing: Christopher Brinton
-[2025-11-01 19:14:59] Processing: Aaron Brovont
-[2025-11-01 19:14:59] Processing: Stanley Chan (area chair)
-[2025-11-01 19:14:59] Processing: Arnold Chung-Ye Chen
-[2025-11-01 19:14:59] Processing: Xiaoqi Danny Chen
-[2025-11-01 19:14:59] Processing: Yaobin Chen
-[2025-11-01 19:14:59] Processing: Zhihong Chen
-[2025-11-01 19:14:59] Processing: Weng C. Chew
-[2025-11-01 19:14:59] Processing: Mung Chiang
-[2025-11-01 19:14:59] Processing: Mary Comer
-[2025-11-01 19:14:59] Processing: Meng Cui
-[2025-11-01 19:14:59] Processing: Keerthi Priya Dasala
-[2025-11-01 19:14:59] Processing: Supriyo Datta
-[2025-11-01 19:14:59] Processing: James Davis
-[2025-11-01 19:14:59] Processing: Edward J. Delp
-[2025-11-01 19:14:59] Processing: Rosa Diaz Rivas
-[2025-11-01 19:14:59] Processing: Yi Ding
-[2025-11-01 19:14:59] Processing: Shengwang Du
-[2025-11-01 19:14:59] Processing: Daniel S. Elliott
-[2025-11-01 19:14:59] Processing: Steve France
-[2025-11-01 19:14:59] Processing: Jing Gao
-[2025-11-01 19:14:59] Processing: Arif Ghafoor
-[2025-11-01 19:14:59] Processing: Mahsa Ghasemi
-[2025-11-01 19:14:59] Processing: Zahra Ghodsi
-[2025-11-01 19:14:59] Processing: Luis Gomez
-[2025-11-01 19:14:59] Processing: Qi Guo
-[2025-11-01 19:14:59] Processing: Sumeet Gupta
-[2025-11-01 19:14:59] Processing: Vijay Gupta
-[2025-11-01 19:14:59] Processing: Abolfazl Hashemi
-[2025-11-01 19:14:59] Processing: Jianghai Hu
-[2025-11-01 19:14:59] Processing: Y. Charlie Hu
-[2025-11-01 19:14:59] Processing: Muhammad Hussain
-[2025-11-01 19:14:59] Processing: David I. Inouye
-[2025-11-01 19:14:59] Processing: Zubin Jacob
-[2025-11-01 19:14:59] Processing: Leah H. Jamieson
-[2025-11-01 19:14:59] Processing: David B. Janes
-[2025-11-01 19:14:59] Processing: Brent Jesiek
-[2025-11-01 19:14:59] Processing: Dan Jiao
-[2025-11-01 19:14:59] Processing: Dr. Mark Johnson
-[2025-11-01 19:14:59] Processing: Byunghoo Jung
-[2025-11-01 19:14:59] Processing: Avinash C. Kak
-[2025-11-01 19:14:59] Processing: Vassilis Kekatos
-[2025-11-01 19:14:59] Processing: Alexander Kildishev
-[2025-11-01 19:14:59] Processing: Jongwook Kim
-[2025-11-01 19:14:59] Processing: Kwang Taik Kim
-[2025-11-01 19:14:59] Processing: Younghyun Kim
-[2025-11-01 19:14:59] Processing: Gerhard Klimeck
-[2025-11-01 19:14:59] Processing: Cheng-Kok Koh
-[2025-11-01 19:14:59] Processing: James V. Krogmeier
-[2025-11-01 19:14:59] Processing: Tillmann Kubis
-[2025-11-01 19:14:59] Processing: Milind Kulkarni
-[2025-11-01 19:14:59] Processing: C. S. George Lee
-[2025-11-01 19:14:59] Processing: Woongkul Matt Lee
-[2025-11-01 19:14:59] Processing: James S. Lehnert
-[2025-11-01 19:14:59] Processing: Haitong Li
-[2025-11-01 19:14:59] Processing: Husheng Li
-[2025-11-01 19:14:59] Processing: Junfei Li
-[2025-11-01 19:14:59] Processing: Lingxi Li
-[2025-11-01 19:14:59] Processing: Tongcang Li
-[2025-11-01 19:14:59] Processing: Chaoyue Liu
-[2025-11-01 19:14:59] Processing: David J. Love
-[2025-11-01 19:14:59] Processing: Yung-Hsiang Lu
-[2025-11-01 19:14:59] Processing: Joseph M. Lukens
-[2025-11-01 19:14:59] Processing: Mark S. Lundstrom
-[2025-11-01 19:14:59] Processing: Aravind Machiry
-[2025-11-01 19:14:59] Processing: Joseph Makin
-[2025-11-01 19:14:59] Processing: Anuran Makur
-[2025-11-01 19:14:59] Processing: Michael Manfra
-[2025-11-01 19:14:59] Processing: Jason D. McKinney
-[2025-11-01 19:14:59] Processing: Michael R. Melloch
-[2025-11-01 19:14:59] Processing: Saeed Mohammadi
-[2025-11-01 19:14:59] Processing: Dallas Morisette
-[2025-11-01 19:14:59] Processing: Evgenii Narimanov
-[2025-11-01 19:14:59] Processing: Philip E. Paré
-[2025-11-01 19:14:59] Processing: Brooke Parks
-[2025-11-01 19:14:59] Processing: Steven D. Pekarek
-[2025-11-01 19:14:59] Processing: Dimitrios Peroulis
-[2025-11-01 19:14:59] Processing: Irith Pomeranz
-[2025-11-01 19:14:59] Processing: Minghao Qi
-[2025-11-01 19:14:59] Processing: Junjie Qin
-[2025-11-01 19:14:59] Processing: Qiang Qiu
-[2025-11-01 19:14:59] Processing: Xiaokang Qiu
-[2025-11-01 19:14:59] Processing: Vijay Raghunathan
-[2025-11-01 19:14:59] Processing: Anand Raghunathan (area chair)
-[2025-11-01 19:14:59] Processing: Karthik Ramani
-[2025-11-01 19:14:59] Processing: Sanjay Rao
-[2025-11-01 19:14:59] Processing: Amy Reibman
-[2025-11-01 19:14:59] Processing: Timothy Rogers
-[2025-11-01 19:14:59] Processing: Thomas Roth
-[2025-11-01 19:14:59] Processing: Kaushik Roy
-[2025-11-01 19:14:59] Processing: Gesualdo Scutari
-[2025-11-01 19:14:59] Processing: Shreyas Sen
-[2025-11-01 19:14:59] Processing: Ali Shakouri
-[2025-11-01 19:14:59] Processing: Vladimir M. Shalaev
-[2025-11-01 19:14:59] Processing: Behzad Sharif
-[2025-11-01 19:14:59] Processing: Vishal Shrivastav
-[2025-11-01 19:14:59] Processing: Jeffrey M. Siskind
-[2025-11-01 19:14:59] Processing: Lu Su
-[2025-11-01 19:14:59] Processing: Scott D. Sudhoff
-[2025-11-01 19:14:59] Processing: Shreyas Sundaram (area chair)
-[2025-11-01 19:14:59] Processing: Hong Z. Tan
-[2025-11-01 19:14:59] Processing: Takashi Tanaka
-[2025-11-01 19:14:59] Processing: Mithuna S. Thottethodi
-[2025-11-01 19:14:59] Processing: Santiago Torres-Arias
-[2025-11-01 19:14:59] Processing: Vishrant Tripathi
-[2025-11-01 19:14:59] Processing: Pramey Upadhyaya (area chair)
-[2025-11-01 19:14:59] Processing: T. N. Vijaykumar
-[2025-11-01 19:14:59] Processing: Phillip Walter
-[2025-11-01 19:14:59] Processing: Chih-Chun Wang
-[2025-11-01 19:14:59] Processing: Haiyan Wang
-[2025-11-01 19:14:59] Processing: Jingbo Wang
-[2025-11-01 19:14:59] Processing: Xiaoqian (Joy) Wang
-[2025-11-01 19:14:59] Processing: Kevin J. Webb
-[2025-11-01 19:14:59] Processing: Dana Weinstein
-[2025-11-01 19:14:59] Processing: Jenna Wise DiVincenzo
-[2025-11-01 19:14:59] Processing: George R. Wodicka
-[2025-11-01 19:14:59] Processing: Peide "Peter" Ye
-[2025-11-01 19:14:59] Processing: Stanislaw H. Zak
-[2025-11-01 19:14:59] Processing: Fengqing Maggie Zhu
-[2025-11-01 19:14:59] Processing: Carla Zoltowski
-[2025-11-01 19:14:59] Processing: Michael D. Zoltowski
-[2025-11-01 19:14:59] --- Data ingestion complete: 0 new records added ---
+[2025-11-01 21:29:23] [98/134] Scraping profile for: Karthik Ramani
+[2025-11-01 21:29:23]     Webpage: https://engineering.purdue.edu/ME/People/ptProfile?id=12331
+[2025-11-01 21:29:23]     Research: Not found
+[2025-11-01 21:29:23] [99/134] Scraping profile for: Sanjay Rao
+[2025-11-01 21:29:24]     Webpage: http://www.ece.purdue.edu/~sanjay
+[2025-11-01 21:29:24]     Research: Computer Networking, Internet Architecture and Protocols, Software-Defined Networking, Cloud Computi...
+[2025-11-01 21:29:24] [100/134] Scraping profile for: Amy Reibman
+[2025-11-01 21:29:24]     Webpage: https://engineering.purdue.edu/~reibman/
+[2025-11-01 21:29:24]     Research: Image and video quality estimation, video transport over networks, video analytics
+[2025-11-01 21:29:25] [101/134] Scraping profile for: Timothy Rogers
+[2025-11-01 21:29:25]     Webpage: https://engineering.purdue.edu/tgrogers/
+[2025-11-01 21:29:25]     Research: Computer architecture, hardware accelerators, software systems, compilers and hardware/software co-d...
+[2025-11-01 21:29:26] [102/134] Scraping profile for: Thomas Roth
+[2025-11-01 21:29:26]     Webpage: https://engineering.purdue.edu/CQEM
+[2025-11-01 21:29:26]     Research: Modeling of classical and quantum electromagnetic systems, multiscale and multiphysics modeling, app...
+[2025-11-01 21:29:26] [103/134] Scraping profile for: Kaushik Roy
+[2025-11-01 21:29:26]     Webpage: https://engineering.purdue.edu/NRL/
+[2025-11-01 21:29:26]     Research: AI algorithms and hardware, neuromorphic computing, low-power electronics, neuro-mimetic devices, de...
+[2025-11-01 21:29:27] [104/134] Scraping profile for: Gesualdo Scutari
+[2025-11-01 21:29:27]     Webpage: https://engineering.purdue.edu/~gscutari/
+[2025-11-01 21:29:27]     Research: Decentralized optimization and information processing, statistical machine learning algorithms, math...
+[2025-11-01 21:29:28] [105/134] Scraping profile for: Shreyas Sen
+[2025-11-01 21:29:28]     Webpage: https://engineering.purdue.edu/~shreyas/SparcLab/
+[2025-11-01 21:29:28]     Research: Sensing and Communication Circuits/Systems, Energy-harvested Sensor nodes for Internet of Things (Io...
+[2025-11-01 21:29:28] [106/134] Scraping profile for: Ali Shakouri
+[2025-11-01 21:29:28]     Webpage: https://nanohub.org/groups/quest/
+[2025-11-01 21:29:28]     Research: Quantum electronics, nano and microscale heat and current transport in semiconductor devices, thermo...
+[2025-11-01 21:29:29] [107/134] Scraping profile for: Vladimir M. Shalaev
+[2025-11-01 21:29:30]     Webpage: http://www.ece.purdue.edu/~shalaev/
+[2025-11-01 21:29:30]     Research: Optical properties of nanostructured materials, nonlinear optics and spectroscopy, mesoscopic physic...
+[2025-11-01 21:29:30] [108/134] Scraping profile for: Behzad Sharif
+[2025-11-01 21:29:31]     Webpage: Not found
+[2025-11-01 21:29:31]     Research: Development and clinical validation of innovative MRI technologies for quantitative imaging of the d...
+[2025-11-01 21:29:31] [109/134] Scraping profile for: Vishal Shrivastav
+[2025-11-01 21:29:31]     Webpage: https://engineering.purdue.edu/~vshriva/
+[2025-11-01 21:29:31]     Research: Computer Networking and Networked Systems.
+[2025-11-01 21:29:32] [110/134] Scraping profile for: Jeffrey M. Siskind
+[2025-11-01 21:29:32]     Webpage: http://www.ece.purdue.edu/~qobi
+[2025-11-01 21:29:32]     Research: Artificial intelligence, cognitive science, computational linguistics, machine vision, programming l...
+[2025-11-01 21:29:32] [111/134] Scraping profile for: Lu Su
+[2025-11-01 21:29:33]     Webpage: https://engineering.purdue.edu/~lusu/
+[2025-11-01 21:29:33]     Research: Internet of things, cyber-physical systems, wireless, mobile, and crowd sensing systems, big data an...
+[2025-11-01 21:29:33] [112/134] Scraping profile for: Scott D. Sudhoff
+[2025-11-01 21:29:33]     Webpage: http://cobweb.ecn.purdue.edu/~sudhoff/
+[2025-11-01 21:29:33]     Research: Power electronics, electromechanical devices, power electronics based  power distribution and propul...
+[2025-11-01 21:29:34] [113/134] Scraping profile for: Shreyas Sundaram (area chair)
+[2025-11-01 21:29:34]     Webpage: https://engineering.purdue.edu/~sundara2
+[2025-11-01 21:29:34]     Research: Network science, robustness and resilience of complex networks and systems, dynamics on networks, fa...
+[2025-11-01 21:29:34] [114/134] Scraping profile for: Hong Z. Tan
+[2025-11-01 21:29:35]     Webpage: http://cobweb.ecn.purdue.edu/~hongtan/
+[2025-11-01 21:29:35]     Research: Haptic interfaces, distributed contact sensing, Haptic rendering, psychophysics
+[2025-11-01 21:29:35] [115/134] Scraping profile for: Takashi Tanaka
+[2025-11-01 21:29:35]     Webpage: https://networked-control-systems-lab.github.io/
+[2025-11-01 21:29:35]     Research: Information theory in control, security and privacy in networked control systems, robust and stochas...
+[2025-11-01 21:29:36] [116/134] Scraping profile for: Mithuna S. Thottethodi
+[2025-11-01 21:29:36]     Webpage: http://www.ece.purdue.edu/~mithuna
+[2025-11-01 21:29:36]     Research: Computer Architecture, Interconnection Networks, Distributed Systems
+[2025-11-01 21:29:36] [117/134] Scraping profile for: Santiago Torres-Arias
+[2025-11-01 21:29:37]     Webpage: Not found
+[2025-11-01 21:29:37]     Research: Computer systems security, software supply chain security, and distributed system security. Applied ...
+[2025-11-01 21:29:37] [118/134] Scraping profile for: Vishrant Tripathi
+[2025-11-01 21:29:38]     Webpage: https://vishrantt.github.io/
+[2025-11-01 21:29:38]     Research: Modeling, analysis and design of communication networks, with emphasis on wireless and real-time net...
+[2025-11-01 21:29:38] [119/134] Scraping profile for: Pramey Upadhyaya (area chair)
+[2025-11-01 21:29:38]     Webpage: Not found
+[2025-11-01 21:29:38]     Research: magnetism, classical and quantum spintronics, next-generation information processing & bio-devices
+[2025-11-01 21:29:39] [120/134] Scraping profile for: T. N. Vijaykumar
+[2025-11-01 21:29:39]     Webpage: https://engineering.purdue.edu/~vijay/
+[2025-11-01 21:29:39]     Research: Computer architecture
+[2025-11-01 21:29:39] [121/134] Scraping profile for: Phillip Walter
+[2025-11-01 21:29:40]     Webpage: Not found
+[2025-11-01 21:29:40]     Research: Not found
+[2025-11-01 21:29:40] [122/134] Scraping profile for: Chih-Chun Wang
+[2025-11-01 21:29:40]     Webpage: https://engineering.purdue.edu/~chihw/
+[2025-11-01 21:29:40]     Research: Coding theory, network coding, analysis of iterative decoding, information theory and optimal decisi...
+[2025-11-01 21:29:41] [123/134] Scraping profile for: Haiyan Wang
+[2025-11-01 21:29:41]     Webpage: https://sites.google.com/site/haiyanwanggroup/home
+[2025-11-01 21:29:41]     Research: Prof. Wang specializes in the design and processing of functional nanocomposite thin films for micro...
+[2025-11-01 21:29:42] [124/134] Scraping profile for: Jingbo Wang
+[2025-11-01 21:29:42]     Webpage: Not found
+[2025-11-01 21:29:42]     Research: Not found
+[2025-11-01 21:29:42] [125/134] Scraping profile for: Xiaoqian (Joy) Wang
+[2025-11-01 21:29:43]     Webpage: https://engineering.purdue.edu/~joywang/
+[2025-11-01 21:29:43]     Research: Not found
+[2025-11-01 21:29:43] [126/134] Scraping profile for: Kevin J. Webb
+[2025-11-01 21:29:44]     Webpage: https://engineering.purdue.edu/Kevin-Webb
+[2025-11-01 21:29:44]     Research: Biophotonics, imaging, nanophotonics, metamaterials, electromagnetics, and solid state devices
+[2025-11-01 21:29:44] [127/134] Scraping profile for: Dana Weinstein
+[2025-11-01 21:29:44]     Webpage: https://engineering.purdue.edu/hybridmems/
+[2025-11-01 21:29:44]     Research: RF MEMS, electromechanical resonators and transducers for wireless communication, signal processing,...
+[2025-11-01 21:29:45] [128/134] Scraping profile for: Jenna Wise DiVincenzo
+[2025-11-01 21:29:45]     Webpage: https://jennalwise.github.io/
+[2025-11-01 21:29:45]     Research: Software verification, formal methods, programming languages, software engineering
+[2025-11-01 21:29:46] [129/134] Scraping profile for: George R. Wodicka
+[2025-11-01 21:29:46]     Webpage: http://engineering.purdue.edu/BME/People/viewPersonById?resource_id=3004
+[2025-11-01 21:29:46]     Research: Biomedical acoustics, speech acoustics, acoustic modeling, biomedical signal processing, acoustic bi...
+[2025-11-01 21:29:47] [130/134] Scraping profile for: Peide "Peter" Ye
+[2025-11-01 21:29:47]     Webpage: http://www.ece.purdue.edu/~yep
+[2025-11-01 21:29:47]     Research: Semiconductor physics and devices, Nano-structures and nano-fabrications, Quantum/spin-transport, 2D...
+[2025-11-01 21:29:47] [131/134] Scraping profile for: Stanislaw H. Zak
+[2025-11-01 21:29:48]     Webpage: http://www.ece.purdue.edu/~zak/
+[2025-11-01 21:29:48]     Research: Control, optimization, nonlinear systems, neural networks, fuzzy logic control
+[2025-11-01 21:29:48] [132/134] Scraping profile for: Fengqing Maggie Zhu
+[2025-11-01 21:29:48]     Webpage: https://engineering.purdue.edu/~zhu0/
+[2025-11-01 21:29:48]     Research: Image processing, video compression, computer vision, and smart health
+[2025-11-01 21:29:49] [133/134] Scraping profile for: Carla Zoltowski
+[2025-11-01 21:29:49]     Webpage: Not found
+[2025-11-01 21:29:49]     Research: Not found
+[2025-11-01 21:29:50] [134/134] Scraping profile for: Michael D. Zoltowski
+[2025-11-01 21:29:50]     Webpage: http://www.ece.purdue.edu/~mikedz
+[2025-11-01 21:29:50]     Research: Wireless & mobile communication systems, smart antennas, space-time adaptive processing, multipath c...
+[2025-11-01 21:29:51] --- Profile enrichment complete ---
+[2025-11-01 21:29:51] Complete data saved to faculty_data_complete.json
+[2025-11-01 21:29:51] --- Starting data ingestion into database ---
+[2025-11-01 21:29:51] Processing: Hadiseh Alaeian
+[2025-11-01 21:29:51] Processing: Muhammad Ashraful Alam
+[2025-11-01 21:29:51] Processing: Dionysios Aliprantis
+[2025-11-01 21:29:51] Processing: Jan P. Allebach
+[2025-11-01 21:29:51] Processing: Joerg Appenzeller
+[2025-11-01 21:29:51] Processing: Santokh Badesha
+[2025-11-01 21:29:51] Processing: Saurabh Bagchi (area chair)
+[2025-11-01 21:29:51] Processing: Mark R. Bell
+[2025-11-01 21:29:51] Processing: Peter Bermel (area chair)
+[2025-11-01 21:29:51] Processing: Sunil A. Bhave
+[2025-11-01 21:29:51] Processing: Alexandra Boltasseva
+[2025-11-01 21:29:51] Processing: Charles A. Bouman
+[2025-11-01 21:29:51] Processing: Mireille "Mimi" Boutin
+[2025-11-01 21:29:51] Processing: Christopher Brinton
+[2025-11-01 21:29:51] Processing: Aaron Brovont
+[2025-11-01 21:29:51] Processing: Stanley Chan (area chair)
+[2025-11-01 21:29:51] Processing: Arnold Chung-Ye Chen
+[2025-11-01 21:29:51] Processing: Xiaoqi Danny Chen
+[2025-11-01 21:29:51] Processing: Yaobin Chen
+[2025-11-01 21:29:51] Processing: Zhihong Chen
+[2025-11-01 21:29:51] Processing: Weng C. Chew
+[2025-11-01 21:29:51] Processing: Mung Chiang
+[2025-11-01 21:29:51] Processing: Mary Comer
+[2025-11-01 21:29:51] Processing: Meng Cui
+[2025-11-01 21:29:51] Processing: Keerthi Priya Dasala
+[2025-11-01 21:29:51] Processing: Supriyo Datta
+[2025-11-01 21:29:51] Processing: James Davis
+[2025-11-01 21:29:51] Processing: Edward J. Delp
+[2025-11-01 21:29:51] Processing: Rosa Diaz Rivas
+[2025-11-01 21:29:51] Processing: Yi Ding
+[2025-11-01 21:29:51] Processing: Shengwang Du
+[2025-11-01 21:29:51] Processing: Daniel S. Elliott
+[2025-11-01 21:29:51] Processing: Steve France
+[2025-11-01 21:29:51] Processing: Jing Gao
+[2025-11-01 21:29:51] Processing: Arif Ghafoor
+[2025-11-01 21:29:51] Processing: Mahsa Ghasemi
+[2025-11-01 21:29:51] Processing: Zahra Ghodsi
+[2025-11-01 21:29:51] Processing: Luis Gomez
+[2025-11-01 21:29:51] Processing: Qi Guo
+[2025-11-01 21:29:51] Processing: Sumeet Gupta
+[2025-11-01 21:29:51] Processing: Vijay Gupta
+[2025-11-01 21:29:51] Processing: Abolfazl Hashemi
+[2025-11-01 21:29:51] Processing: Jianghai Hu
+[2025-11-01 21:29:51] Processing: Y. Charlie Hu
+[2025-11-01 21:29:51] Processing: Muhammad Hussain
+[2025-11-01 21:29:51] Processing: David I. Inouye
+[2025-11-01 21:29:51] Processing: Zubin Jacob
+[2025-11-01 21:29:51] Processing: Leah H. Jamieson
+[2025-11-01 21:29:51] Processing: David B. Janes
+[2025-11-01 21:29:51] Processing: Brent Jesiek
+[2025-11-01 21:29:51] Processing: Dan Jiao
+[2025-11-01 21:29:51] Processing: Dr. Mark Johnson
+[2025-11-01 21:29:51] Processing: Byunghoo Jung
+[2025-11-01 21:29:51] Processing: Avinash C. Kak
+[2025-11-01 21:29:51] Processing: Vassilis Kekatos
+[2025-11-01 21:29:51] Processing: Alexander Kildishev
+[2025-11-01 21:29:51] Processing: Jongwook Kim
+[2025-11-01 21:29:51] Processing: Kwang Taik Kim
+[2025-11-01 21:29:51] Processing: Younghyun Kim
+[2025-11-01 21:29:51] Processing: Gerhard Klimeck
+[2025-11-01 21:29:51] Processing: Cheng-Kok Koh
+[2025-11-01 21:29:51] Processing: James V. Krogmeier
+[2025-11-01 21:29:51] Processing: Tillmann Kubis
+[2025-11-01 21:29:51] Processing: Milind Kulkarni
+[2025-11-01 21:29:51] Processing: C. S. George Lee
+[2025-11-01 21:29:51] Processing: Woongkul Matt Lee
+[2025-11-01 21:29:51] Processing: James S. Lehnert
+[2025-11-01 21:29:51] Processing: Haitong Li
+[2025-11-01 21:29:51] Processing: Husheng Li
+[2025-11-01 21:29:51] Processing: Junfei Li
+[2025-11-01 21:29:51] Processing: Lingxi Li
+[2025-11-01 21:29:51] Processing: Tongcang Li
+[2025-11-01 21:29:51] Processing: Chaoyue Liu
+[2025-11-01 21:29:51] Processing: David J. Love
+[2025-11-01 21:29:51] Processing: Yung-Hsiang Lu
+[2025-11-01 21:29:51] Processing: Joseph M. Lukens
+[2025-11-01 21:29:51] Processing: Mark S. Lundstrom
+[2025-11-01 21:29:51] Processing: Aravind Machiry
+[2025-11-01 21:29:51] Processing: Joseph Makin
+[2025-11-01 21:29:51] Processing: Anuran Makur
+[2025-11-01 21:29:51] Processing: Michael Manfra
+[2025-11-01 21:29:51] Processing: Jason D. McKinney
+[2025-11-01 21:29:51] Processing: Michael R. Melloch
+[2025-11-01 21:29:51] Processing: Saeed Mohammadi
+[2025-11-01 21:29:51] Processing: Dallas Morisette
+[2025-11-01 21:29:51] Processing: Evgenii Narimanov
+[2025-11-01 21:29:51] Processing: Philip E. Paré
+[2025-11-01 21:29:51] Processing: Brooke Parks
+[2025-11-01 21:29:51] Processing: Steven D. Pekarek
+[2025-11-01 21:29:51] Processing: Dimitrios Peroulis
+[2025-11-01 21:29:51] Processing: Irith Pomeranz
+[2025-11-01 21:29:51] Processing: Minghao Qi
+[2025-11-01 21:29:51] Processing: Junjie Qin
+[2025-11-01 21:29:51] Processing: Qiang Qiu
+[2025-11-01 21:29:51] Processing: Xiaokang Qiu
+[2025-11-01 21:29:51] Processing: Vijay Raghunathan
+[2025-11-01 21:29:51] Processing: Anand Raghunathan (area chair)
+[2025-11-01 21:29:51] Processing: Karthik Ramani
+[2025-11-01 21:29:51] Processing: Sanjay Rao
+[2025-11-01 21:29:51] Processing: Amy Reibman
+[2025-11-01 21:29:51] Processing: Timothy Rogers
+[2025-11-01 21:29:51] Processing: Thomas Roth
+[2025-11-01 21:29:51] Processing: Kaushik Roy
+[2025-11-01 21:29:51] Processing: Gesualdo Scutari
+[2025-11-01 21:29:51] Processing: Shreyas Sen
+[2025-11-01 21:29:51] Processing: Ali Shakouri
+[2025-11-01 21:29:51] Processing: Vladimir M. Shalaev
+[2025-11-01 21:29:51] Processing: Behzad Sharif
+[2025-11-01 21:29:51] Processing: Vishal Shrivastav
+[2025-11-01 21:29:51] Processing: Jeffrey M. Siskind
+[2025-11-01 21:29:51] Processing: Lu Su
+[2025-11-01 21:29:51] Processing: Scott D. Sudhoff
+[2025-11-01 21:29:51] Processing: Shreyas Sundaram (area chair)
+[2025-11-01 21:29:51] Processing: Hong Z. Tan
+[2025-11-01 21:29:51] Processing: Takashi Tanaka
+[2025-11-01 21:29:51] Processing: Mithuna S. Thottethodi
+[2025-11-01 21:29:51] Processing: Santiago Torres-Arias
+[2025-11-01 21:29:51] Processing: Vishrant Tripathi
+[2025-11-01 21:29:51] Processing: Pramey Upadhyaya (area chair)
+[2025-11-01 21:29:51] Processing: T. N. Vijaykumar
+[2025-11-01 21:29:51] Processing: Phillip Walter
+[2025-11-01 21:29:51] Processing: Chih-Chun Wang
+[2025-11-01 21:29:51] Processing: Haiyan Wang
+[2025-11-01 21:29:51] Processing: Jingbo Wang
+[2025-11-01 21:29:51] Processing: Xiaoqian (Joy) Wang
+[2025-11-01 21:29:51] Processing: Kevin J. Webb
+[2025-11-01 21:29:51] Processing: Dana Weinstein
+[2025-11-01 21:29:51] Processing: Jenna Wise DiVincenzo
+[2025-11-01 21:29:51] Processing: George R. Wodicka
+[2025-11-01 21:29:51] Processing: Peide "Peter" Ye
+[2025-11-01 21:29:51] Processing: Stanislaw H. Zak
+[2025-11-01 21:29:51] Processing: Fengqing Maggie Zhu
+[2025-11-01 21:29:51] Processing: Carla Zoltowski
+[2025-11-01 21:29:51] Processing: Michael D. Zoltowski
+[2025-11-01 21:29:51] --- Data ingestion complete: 0 new records added ---
