@@ -9,7 +9,7 @@ class FacultyOut(BaseModel):
 
     # future fields for returning by research interest search
 
-    class Config:
+    class ConfigDict:
         # allows ORM objects to be returned directly
         from_attributes = True
 
@@ -17,5 +17,5 @@ class FacultyNameOut(BaseModel):
     id: int
     name: str
 
-    class Config:
+    class ConfigDict:
         from_attributes = True

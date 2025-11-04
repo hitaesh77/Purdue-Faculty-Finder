@@ -5,14 +5,32 @@ from backend.db.database import engine, SessionLocal
 from backend.db.models import Base
 from backend.data_ingestion import load_data_from_json, ingest_faculty_data
 import os
+from contextlib import asynccontextmanager
 
 # ensure tables exist
 Base.metadata.create_all(bind=engine)
 
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Startup logic
+    from backend.data_ingestion import BASE_DIR
+    json_path = os.path.join(BASE_DIR, "faculty_data_complete.json")
+
+    data = load_data_from_json(json_path)
+    if data:
+        db = SessionLocal()
+        ingest_faculty_data(db, data)
+        db.close()
+
+    yield  # This is where FastAPI runs the app
+
+    # Optional: add shutdown logic here if needed
+
 app = FastAPI(
     title="Purdue ECE Faculty Finder API",
     description="RESTful API for searching ECE faculty by name and research interests.",
-    version="v1"
+    version="v1",
+    lifespan=lifespan
 )
 
 # 2. CORS Middleware (Essential for connecting Frontend/Next.js)
@@ -31,21 +49,6 @@ app.add_middleware(
 
 # 3. Include the Router
 app.include_router(router)
-
-@app.on_event("startup")
-def startup_event():
-    """
-    Ensures the database exists and ingests JSON data if not already present.
-    """
-    from backend.data_ingestion import BASE_DIR
-    db_path = os.path.join(BASE_DIR, "faculty.db")
-    json_path = os.path.join(BASE_DIR, "faculty_data_complete.json")
-
-    data = load_data_from_json(json_path)
-    if data:
-        db = SessionLocal()
-        ingest_faculty_data(db, data)  # safely skips duplicates
-        db.close()
 
 @app.get("/")
 def read_root():
