@@ -1,5 +1,7 @@
 # Purdue Faculty Finder
 
+### [Link to Faculty Finder](https://purdue-faculty-finder.vercel.app/)
+
 FastAPI backend and Next.js frontend for searching Purdue ECE faculty by name or research interests. The system scrapes official faculty pages, stores structured records in SQLite, and serves them through REST endpoints consumed by the Next.js UI.
 
 ## Features
