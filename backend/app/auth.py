@@ -8,10 +8,10 @@ security = HTTPBasic()
 
 load_dotenv()
 
-ADMIN_USER = os.getenv("ADMIN_USER")
-ADMIN_PASS = os.getenv("ADMIN_PASS")
-
 def verify_admin(credentials: HTTPBasicCredentials = Depends(security)):
+    ADMIN_USER = os.getenv("ADMIN_USER")
+    ADMIN_PASS = os.getenv("ADMIN_PASS")
+
     correct_user = secrets.compare_digest(credentials.username, ADMIN_USER)
     correct_pass = secrets.compare_digest(credentials.password, ADMIN_PASS)
     if not (correct_user and correct_pass):
