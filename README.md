@@ -10,7 +10,7 @@ FastAPI backend and Next.js frontend for searching Purdue ECE faculty by name or
 - Individual faculty detail retrieval  
 - Automated scraping of Purdue ECE faculty directory  
 - Admin-protected update endpoint  
-- Local SQLite persistence 
+- Local SQLite database 
 - Clean separation of backend and frontend
 
 ## Architecture
@@ -39,7 +39,7 @@ Frontend:
 
 API:
 
-- Hosted on Vercel or local development server.  
+- Hosted on GCP, can also be run on local development server.  
 - Swagger documentation at `/docs` or `/redoc`.
 
 ## Tech Stack
@@ -66,11 +66,16 @@ API:
         * `models.py`
         * `database.py`
         * `init_db.py`
+    * * **`tests/`** (Testing files)
+        * `conftest.py`
+        * `test_auth.py`
+        * `test_data_ingestion.py`
+        * `test_scraper.py`
     * `scraper.py`
     * `data_ingestion.py`
 * **`frontend/`** (Next.js separate directory)
 
-## Setup
+## Setup for local deployment
 
 Clone the repository:
 
