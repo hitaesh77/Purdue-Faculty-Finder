@@ -6,16 +6,14 @@ import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 
-// UNCOMMENT THIS BASE URL FOR DEPLOYED BACKEND
-// UNCOMMENT THIS BASE URL FOR LCOAL TESTING
-// const baseUrl = "http://localhost:8000";
-
-// environment driven api url
-const baseUrl = process.env.NEXT_PUBLIC_BASE_URL ?? "http://localhost:8000";
+// base url based on env
+// const baseUrl = process.env.NEXT_PUBLIC_BASE_URL ?? "http://127.0.0.1:8000";
+const baseUrl =  "http://127.0.0.1:8000";
 
 // return type for following endpoints:
 // api/v1//search/name?q={name} 
 // api/v1/search/research?q={research_interest}
+// api/vi/search/all
 type FacultyListItem = {
   id: number
   name: string
@@ -37,6 +35,7 @@ export default function FacultySearchPage() {
   const [selectedFaculty, setSelectedFaculty] = useState<FacultyDetail | null>(null)
   const [loading, setLoading] = useState(false)
   const [debounceTimer, setDebounceTimer] = useState<NodeJS.Timeout | null>(null)
+  const [allFaculty, setAllFaculty] = useState<FacultyListItem[] | null>(null)
 
   // states for admin hadnling
   const [adminOpen, setAdminOpen] = useState(false)
@@ -54,13 +53,27 @@ export default function FacultySearchPage() {
   // setTimeout: wait before executing osme funciton
   // clearTimeout: cancels an established timeout
 
+  // populate faculty cache on mount
+  useEffect(() => {
+    (async () => {
+      try {
+        const res = await fetch(`${baseUrl}/api/v1/search/all`)
+        if (res.ok) {
+          const data: FacultyListItem[] = await res.json()
+          setAllFaculty(data)
+        }
+      } catch (_) {}
+    })()
+  }, [])
+
   // trigger search from name or interest
   useEffect(() => {
     const noQuery = nameSearch.trim() === "" && interestSearch.trim() === ""
 
     if (noQuery) {
       if (debounceTimer) clearTimeout(debounceTimer)
-      setResults([])
+      if (allFaculty) setResults(allFaculty)
+      else setResults([])
       return
     }
 
@@ -83,7 +96,7 @@ export default function FacultySearchPage() {
 
       setLoading(false)
     })
-  }, [nameSearch, interestSearch])
+  }, [nameSearch, interestSearch, allFaculty])
 
   useEffect(() => {
     if (results.length !== 1) return
@@ -92,7 +105,6 @@ export default function FacultySearchPage() {
 
     // do not refetch if already selected
     if (selectedFaculty && selectedFaculty.id === only.id) return
-
       ; (async () => {
         try {
           const res = await fetch(`${baseUrl}/api/v1/faculty/${only.id}`)
@@ -103,7 +115,6 @@ export default function FacultySearchPage() {
         }
       })()
   }, [results])
-
 
   const clearFilters = () => {
     setNameSearch("")
@@ -137,6 +148,11 @@ export default function FacultySearchPage() {
       })
       const data = await res.json()
       if (res.ok) {
+        // update faculty on update
+        setAllFaculty(null)
+        const r = await fetch(`${baseUrl}/api/v1/faculty/all`)
+        if (r.ok) setAllFaculty(await r.json())
+
         setUpdateMessage(`Success: ${data.record_count} records updated`)
       } else {
         setUpdateMessage(`Error: ${data.detail || "Unknown error"}`)

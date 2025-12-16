@@ -15,24 +15,6 @@ router = APIRouter(
 )
 
 # API ENDPOINTS
-
-# Search faculty by name and return a list
-@router.get("/search/name", response_model=List[FacultyNameOut])
-def search_faculty_by_name(
-    q: str = Query(..., min_length=1),
-    db: Session = Depends(get_db)
-):
-    try:
-        # Case-insensitive substring match
-        faculty_list = db.query(models.Faculty).filter(models.Faculty.name.ilike(f"%{q}%")).all()
-
-        # Convert to response format
-        results = [FacultyNameOut(id=f.id, name=f.name) for f in faculty_list]
-
-        return results
-
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
     
 # Search faculty by ID and return full details
 @router.get("/faculty/{faculty_id}", response_model=FacultyOut)
@@ -54,8 +36,26 @@ def get_faculty_by_id(
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
+    
+# Search faculty by name and return a list
+@router.get("/search/name", response_model=List[FacultyNameOut])
+def search_faculty_by_name(
+    q: str = Query(..., min_length=1),
+    db: Session = Depends(get_db)
+):
+    try:
+        # Case-insensitive substring match
+        faculty_list = db.query(models.Faculty).filter(models.Faculty.name.ilike(f"%{q}%")).all()
 
+        # Convert to response format
+        results = [FacultyNameOut(id=f.id, name=f.name) for f in faculty_list]
 
+        return results
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
+
+# search faculty by research interest and return a list
 @router.get("/search/research", response_model=List[FacultyNameOut])
 def search_faculty_by_research_interest(
     q: str = Query(..., min_length=1),
@@ -73,7 +73,24 @@ def search_faculty_by_research_interest(
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
     
+# get all facult data and return a list
+@router.get("/search/all", response_model=List[FacultyNameOut])
+def get_all_faculty(
+    db: Session = Depends(get_db)
+):
+    try:
+        faculty_list = db.query(models.Faculty).all()
 
+        # Convert to response format
+        results = [FacultyNameOut(id=f.id, name=f.name) for f in faculty_list]
+
+        return results
+    
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
+
+    
+# update faculty data (admin only)
 @router.post("/update")
 def update_faculty(db: Session = Depends(get_db), _: bool = Depends(verify_admin)):
     try:
