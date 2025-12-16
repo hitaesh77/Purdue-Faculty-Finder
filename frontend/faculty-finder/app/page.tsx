@@ -7,8 +7,8 @@ import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 
 // base url based on env
-// const baseUrl = process.env.NEXT_PUBLIC_BASE_URL ?? "http://127.0.0.1:8000";
-const baseUrl =  "http://127.0.0.1:8000";
+const baseUrl = process.env.NEXT_PUBLIC_BASE_URL ?? "http://127.0.0.1:8000";
+// const baseUrl =  "http://127.0.0.1:8000";
 
 // return type for following endpoints:
 // api/v1//search/name?q={name} 
